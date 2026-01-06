@@ -45,8 +45,8 @@ You can find my research profile and real-time citation count on <a href='https:
 - **Tianlong Wang**, K. Zhang, Z. Liu, T. Ma, R. Luo, H. Chen, X. Wang, W. Ge, H. Sun*. Prediction and explanation of debris flow velocity based on multi-strategy fusion Stacking ensemble learning model. *Journal of Hydrology*, 638, 131347, 2024. (JCR Q1) [[DOI]](https://doi.org/10.1016/j.jhydrol.2024.131347)
 - **Tianlong Wang**, R. Luo, T. Ma, et al. Study and verification on an improved comprehensive prediction model of landslide displacement. *Bulletin of Engineering Geology and the Environment*, 83, 90, 2024. (JCR Q1) [[DOI]](https://doi.org/10.1007/s10064-024-03581-5)
 - **Tianlong Wang**, D. Peng, X. Wang, B. Wu, R. Luo, Z. Chu, H. Sun*. Study on wavelet multi-scale analysis and prediction of landslide groundwater. *Journal of Hydroinformatics*, 26(1), 237–254, 2024. (JCR Q2) [[DOI]](https://doi.org/10.2166/hydro.2023.299)
-- Z. Chu, S. Yu, X. Li, X. Lu, X. Wang, R. Luo, **Tianlong Wang***. Laboratory model test on the treatment of engineering slurry by vacuum drainage method. *Journal of Yangtze River Scientific Research Institute*, 41(9): 114-122, 2024. (Corresponding Author, CSCD)
-- **Tianlong Wang**, J. Wang, X. Shao. Carbon emission forecast of China Transport Industry Based on Grey - Markov. *ICCBD*, [[DOI]](https://doi.org/10.1109/ICCBD53833.2021.00192)
+- Z. Chu, S. Yu, X. Li, X. Lu, X. Wang, R. Luo, **Tianlong Wang***. Laboratory model test on the treatment of engineering slurry by vacuum drainage method. *Journal of Yangtze River Scientific Research Institute*, 41(9): 114-122, 2024. (Corresponding Author, CSCD) [[DOI]](https://doi.org/10.11988/ckyyb.20230665)
+- **Tianlong Wang**, J. Wang, X. Shao. Carbon emission forecast of China Transport Industry Based on Grey - Markov. *ICCBD*, 2021. [[DOI]](https://doi.org/10.1109/ICCBD53833.2021.00192)
 - **Tianlong Wang**, H. Zhang, X. Tao, W. Chu. Research on Prediction and Optimization of Slope Deformation in Mining Area. *Environment, Resource and Ecology Journal*, 4:66-69, 2020. [[DOI]](https://doi.org/10.23977/erej.2020.040110)
 
 # **🏆 Competitions**
