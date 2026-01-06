@@ -19,24 +19,24 @@ redirect_from:
 
 # **👋 About Me**
 
-I am a PhD student at **Zhejiang University (ZJU)**, currently participating in a joint training program at **Nanyang Technological University (NTU)**. My research is situated at the intersection of **Artificial Intelligence** and **Disaster Prevention and Mitigation**.
+I am a PhD student at Zhejiang University (ZJU), currently participating in a joint training program at Nanyang Technological University (NTU). My research is situated at the intersection of **Artificial Intelligence** and **Disaster Prevention and Mitigation**.
 
-Specifically, I focus on leveraging machine learning and deep learning frameworks to enhance the **early warning, spatiotemporal prediction, and intelligent mitigation** of geological hazards, such as landslides and debris flows.
+Specifically, I focus on leveraging machine learning and deep learning frameworks to enhance the **early warning, spatiotemporal prediction, and intelligent mitigation** of geological hazards, such as debris flows and landslides.
 
 You can find my research profile and real-time citation count on <a href='https://scholar.google.com/citations?user=JNiHto0AAAAJ'>Google Scholar <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # **🔥 News**
-- *2025.11*: 🎉🎉 Awarded the Silver Award in the China International College Students' Innovation Competition (2025) Singapore Regional.
-- *2025.07*: 🚀 Selected for the Outstanding Doctoral Dissertation Award cultivation program at Zhejiang University.
-- *2025.02*: ✍️ Published my debut poetry collection **"Su Ge Ni Lan"** (《苏格尼兰》), China.
-- *2024.12*: 🎓 Awarded the Young Science and Technology Scientists Sponsorship Program by CAST (Doctoral Student Special Plan).
+- *2025.11*: 🎉🎉 Awarded the Silver Award in the China International College Students' Innovation Competition (2025) Singapore Regional, Singapore.
+- *2025.07*: 🚀 Selected for the Outstanding Doctoral Dissertation Award cultivation program at Zhejiang University, China.
+- *2025.02*: ✍️ Published my debut poetry collection "Su Ge Ni Lan"*(《苏格尼兰》), China.
+- *2024.12*: 🎓 Awarded the Young Science and Technology Scientists Sponsorship Program by CAST (Doctoral Student Special Plan), China.
 - *2024.09*: 🛫 Started my joint PhD training at Nanyang Technological University (NTU), Singapore. 
 
 # **🔍 Research Grants**
-- **Young Science and Technology Scientists Sponsorship Program by CAST**, No. 156-O-170-0000603-2, "Spatiotemporal Dynamic Forecasting and Interpretive Analysis System for Debris Flows in Small Watersheds", 2025.01 - 2026.12, **PI**.
+- **<span style="color: red;">Young Science and Technology Scientists Sponsorship Program by CAST</span>**, No. 156-O-170-0000603-2, "Spatiotemporal Dynamic Forecasting and Interpretive Analysis System for Debris Flows in Small Watersheds", 2025.01 - 2026.12, **PI**.
 - **China Scholarship Council (CSC) Grant**, No. 202406320358, "Research on Early Spatiotemporal Prediction of Debris Flows and Disaster Control in Small Watersheds", 2024.09 - 2026.09, **PI**.
 - **Zhejiang University Seed Fund Cultivation Project**, No. 2025BS004, "Research on Intelligent Debris Flow Forecasting Methods for Small Watersheds Based on Multi-scale Hydrodynamic Coupling Mechanisms", 2025.06 - 2027.06, **PI**.
-- **Outstanding Doctoral Dissertation Fund**, Zhejiang University, No. 12234058, 2025.07 - 2026.07, **PI**.
+- **<span style="color: red;">Outstanding Doctoral Dissertation Fund</span>**, Zhejiang University, No. 12234058, 2025.07 - 2026.07, **PI**.
 
 # **📝 Publications** <span class='anchor' id='-publications'></span>
 
@@ -67,17 +67,17 @@ You can find my research profile and real-time citation count on <a href='https:
 * [8] J. Liu, Q. Shi, Z. Wei, ..., **Tianlong Wang**, et al. *Pile Structure and Construction Method in Coral Sand Environment*. Chinese Invention Patent, No: CN110886291B, 2021. (Granted)
 
 # **🏆 Competitions**
-- *2025.11* **Silver Award**, China International College Students' Innovation Competition (2025), Singapore Regional.
-- *2024.08* **Silver Award**, Zhejiang International College Students' Innovation Competition (Internet+).
-- *2023.06* **Silver Award**, The 15th "Dandelion" University Student Entrepreneurship Competition, Zhejiang University.
-- *2021.08* **Second Prize (National)**, The 14th National University Student Social Practice and Science Contest on Energy Saving and Emission Reduction.
-- *2021.07* **Third Prize (National)**, The 8th National Financial and Securities Investment Simulation Training Contest.
-- *2021.06* **Grand Prize (National)**, The 3rd National College Student Structural Design Information Technology Competition.
-- *2021.05* **Third Prize (Provincial)**, The 13th "Challenge Cup" National Undergraduate Curricular Academic Science and Technology Works Conference.
-- *2020.11* **Second Prize (Provincial)**, Contemporary Undergraduate Mathematical Contest in Modeling.
-- *2020.07* **Third Prize (Provincial)**, The 5th National Construction College Construction Technology Application Skills Competition.
+- *2025.11* **Silver Award(International)**, China International College Students' Innovation Competition (2025), Singapore Regional, Singapore .
+- *2024.08* **Silver Award(Provincial)**, Zhejiang International College Students' Innovation Competition (Internet+), China.
+- *2023.06* **Silver Award(Provincial)**, The 15th "Dandelion" University Student Entrepreneurship Competition, Zhejiang University, China.
+- *2021.08* **Second Prize (National)**, The 14th National University Student Social Practice and Science Contest on Energy Saving and Emission Reduction, China.
+- *2021.07* **Third Prize (National)**, The 8th National Financial and Securities Investment Simulation Training Contest, China.
+- *2021.06* **<span style="color: red;">Grand Prize (National)</span>**, The 3rd National College Student Structural Design Information Technology Competition, China.
+- *2021.05* **Third Prize (Provincial)**, The 13th "Challenge Cup" National Undergraduate Curricular Academic Science and Technology Works Conference, China.
+- *2020.11* **Second Prize (Provincial)**, Contemporary Undergraduate Mathematical Contest in Modeling, China.
+- *2020.07* **Third Prize (Provincial)**, The 5th National Construction College Construction Technology Application Skills Competition, China.
 
-# **💰 Scholarships & Honors**
+# **💰 Honors**
 - *2023.12* China Harbour Engineering Company (CHEC) Scholarship.
 - *2022.11* **Outstanding Graduate (Top 100)**, City Underground Space Engineering Professional Committee, CSRME.
 - *2021.12* **National Scholarship**, China.
@@ -91,7 +91,7 @@ You can find my research profile and real-time citation count on <a href='https:
 - *2022.09 - 2027.06 (Exp.)*, PhD Student, **Zhejiang University (ZJU)**, China.
   - Mentor: [Prof. Hongyue Sun](https://person.zju.edu.cn/0096428)
 
-# **🧩 Experience & Beyond** <span class='anchor' id='-experience--beyond'></span>
+# **🧩 Msic** <span class='anchor' id='-experience--beyond'></span>
 - *2023.07 - 2023.09*, **Intern**, China International Science and Technology Exchange Center, China Association for Science and Technology (CAST), Beijing, China.
 - *2022.06 - 2024.06*, **President**, Student Fitness Club, Ocean College, Zhejiang University.
 - *2019.11 - Present*, **Independent Poet**, Published Debut Poetry Collection "Su Ge Ni Lan".
