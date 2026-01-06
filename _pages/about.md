@@ -1,5 +1,4 @@
 ---
-layout: archive
 permalink: /
 title: ""
 excerpt: ""
@@ -20,16 +19,16 @@ redirect_from:
 
 # **👋 About Me**
 
-I am a PhD student at Zhejiang University (ZJU), currently in a joint training program at Nanyang Technological University (NTU). My research interests lie at the intersection of **Disaster Prevention and Mitigation** and **Artificial Intelligence**. 
+I am a PhD student at **Zhejiang University (ZJU)**, currently participating in a joint training program at **Nanyang Technological University (NTU)**. My research is situated at the intersection of **Artificial Intelligence** and **Disaster Prevention and Mitigation**.
 
-Specifically, I focus on leveraging machine learning and deep learning to enhance the prediction, monitoring, and mitigation of geological hazards, particularly landslides and debris flows. 
+Specifically, I focus on leveraging machine learning and deep learning frameworks to enhance the **early warning, spatiotemporal prediction, and intelligent mitigation** of geological hazards, such as landslides and debris flows.
 
 You can find my research profile and real-time citation count on <a href='https://scholar.google.com/citations?user=JNiHto0AAAAJ'>Google Scholar <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # **🔥 News**
 - *2025.11*: 🎉🎉 Awarded the Silver Award in the China International College Students' Innovation Competition (2025) Singapore Regional.
 - *2025.07*: 🚀 Selected for the Outstanding Doctoral Dissertation Award cultivation program at Zhejiang University.
-- *2025.02*: ✍️ Published my debut poetry collection "Su Ge Ni Lan", China.
+- *2025.02*: ✍️ Published my debut poetry collection **"Su Ge Ni Lan"** (《苏格尼兰》), China.
 - *2024.12*: 🎓 Awarded the Young Science and Technology Scientists Sponsorship Program by CAST (Doctoral Student Special Plan).
 - *2024.09*: 🛫 Started my joint PhD training at Nanyang Technological University (NTU), Singapore. 
 
@@ -58,24 +57,27 @@ You can find my research profile and real-time citation count on <a href='https:
 <br>
 
 ## **Patents**
-* [P1] X. Wang, H. Sun, ..., **Tianlong Wang**. *Early Warning and Mitigation Method for Debris Flow Disasters in Small Watersheds*. Chinese Invention Patent, No: CN118262481A, 2024. (In Review)
-* [P2] X. Wang, H. Sun, **Tianlong Wang**, R. Tang, R. Luo. *Monitoring and Early Warning Method and System for Rainfall-induced Landslides*. Chinese Invention Patent, No: CN117854239A, 2024. (In Review)
-* [P3] H. Sun, X. Wang, **Tianlong Wang**, R. Tang, R. Luo. *Monitoring and Early Warning Method and System for Rainfall-induced Debris Flow*. **Japanese Invention Patent**, No: 2024-017304, 2024. (Granted)
-* [P4] **Tianlong Wang**, H. Sun, Z. Chu, R. Luo, X. Wang. *Landslide Displacement Prediction Method Based on IVMD-IAO-BiLSTM*. Chinese Invention Patent, No: CN116757323A, 2023. (In Review)
-* [P5] J. Liu, Z. Li, **Tianlong Wang**, et al. *Eccentric Hook-shaped Expansible Pre-stressed Anchoring Structure and Its Anchoring Method*. Chinese Invention Patent, No: CN113718767B, 2023. (Granted)
-* [P6] J. Liu, Z. Li, **Tianlong Wang**, et al. *Method for Repairing Dam Crack Defects Using Magnetic Mortar*. Chinese Invention Patent, No: CN114396022A, 2022. (In Review)
-* [P7] J. Liu, Q. Shi, Z. Wei, ..., **Tianlong Wang**, et al. *Device and Method for Obtaining the Position of Liquid Displacement Surface in Rock Cracks*. Chinese Invention Patent, No: CN111595550B, 2022. (Granted)
-* [P8] J. Liu, Q. Shi, Z. Wei, ..., **Tianlong Wang**, et al. *Pile Structure and Construction Method in Coral Sand Environment*. Chinese Invention Patent, No: CN110886291B, 2021. (Granted)
+* [1] X. Wang, H. Sun, ..., **Tianlong Wang**. *Early Warning and Mitigation Method for Debris Flow Disasters in Small Watersheds*. Chinese Invention Patent, No: CN118262481A, 2024. (In Review)
+* [2] X. Wang, H. Sun, **Tianlong Wang**, R. Tang, R. Luo. *Monitoring and Early Warning Method and System for Rainfall-induced Landslides*. Chinese Invention Patent, No: CN117854239A, 2024. (In Review)
+* [3] H. Sun, X. Wang, **Tianlong Wang**, R. Tang, R. Luo. *Monitoring and Early Warning Method and System for Rainfall-induced Debris Flow*. **Japanese Invention Patent**, No: 2024-017304, 2024. (Granted)
+* [4] **Tianlong Wang**, H. Sun, Z. Chu, R. Luo, X. Wang. *Landslide Displacement Prediction Method Based on IVMD-IAO-BiLSTM*. Chinese Invention Patent, No: CN116757323A, 2023. (In Review)
+* [5] J. Liu, Z. Li, **Tianlong Wang**, et al. *Eccentric Hook-shaped Expansible Pre-stressed Anchoring Structure and Its Anchoring Method*. Chinese Invention Patent, No: CN113718767B, 2023. (Granted)
+* [6] J. Liu, Z. Li, **Tianlong Wang**, et al. *Method for Repairing Dam Crack Defects Using Magnetic Mortar*. Chinese Invention Patent, No: CN114396022A, 2022. (In Review)
+* [7] J. Liu, Q. Shi, Z. Wei, ..., **Tianlong Wang**, et al. *Device and Method for Obtaining the Position of Liquid Displacement Surface in Rock Cracks*. Chinese Invention Patent, No: CN111595550B, 2022. (Granted)
+* [8] J. Liu, Q. Shi, Z. Wei, ..., **Tianlong Wang**, et al. *Pile Structure and Construction Method in Coral Sand Environment*. Chinese Invention Patent, No: CN110886291B, 2021. (Granted)
 
 # **🏆 Competitions**
 - *2025.11* **Silver Award**, China International College Students' Innovation Competition (2025), Singapore Regional.
-- *2024.08* **Silver Award**, Zhejiang International College Students' Innovation Competition (Internet+), Hangzhou, China.
+- *2024.08* **Silver Award**, Zhejiang International College Students' Innovation Competition (Internet+).
 - *2023.06* **Silver Award**, The 15th "Dandelion" University Student Entrepreneurship Competition, Zhejiang University.
 - *2021.08* **Second Prize (National)**, The 14th National University Student Social Practice and Science Contest on Energy Saving and Emission Reduction.
 - *2021.07* **Third Prize (National)**, The 8th National Financial and Securities Investment Simulation Training Contest.
 - *2021.06* **Grand Prize (National)**, The 3rd National College Student Structural Design Information Technology Competition.
+- *2021.05* **Third Prize (Provincial)**, The 13th "Challenge Cup" National Undergraduate Curricular Academic Science and Technology Works Conference.
+- *2020.11* **Second Prize (Provincial)**, Contemporary Undergraduate Mathematical Contest in Modeling.
+- *2020.07* **Third Prize (Provincial)**, The 5th National Construction College Construction Technology Application Skills Competition.
 
-# **⭐ Honors**
+# **💰 Scholarships & Honors**
 - *2023.12* China Harbour Engineering Company (CHEC) Scholarship.
 - *2022.11* **Outstanding Graduate (Top 100)**, City Underground Space Engineering Professional Committee, CSRME.
 - *2021.12* **National Scholarship**, China.
@@ -90,7 +92,7 @@ You can find my research profile and real-time citation count on <a href='https:
   - Mentor: [Prof. Hongyue Sun](https://person.zju.edu.cn/0096428)
 
 # **🧩 Experience & Beyond** <span class='anchor' id='-experience--beyond'></span>
-- *2023.07 - 2023.09*, **Intern**, China International Science and Technology Exchange Center, CAST, Beijing, China.
+- *2023.07 - 2023.09*, **Intern**, China International Science and Technology Exchange Center, China Association for Science and Technology (CAST), Beijing, China.
 - *2022.06 - 2024.06*, **President**, Student Fitness Club, Ocean College, Zhejiang University.
 - *2019.11 - Present*, **Independent Poet**, Published Debut Poetry Collection "Su Ge Ni Lan".
 - *2019.07 - 2019.08*, **Volunteer Teacher**, Baihuaping Community, Shennongjia, China.
