@@ -31,7 +31,13 @@ You can find my research profile and real-time citation count on <a href='https:
 - *2025.06*: 💰 Awarded the ZJU Seed Fund Cultivation Project for Intelligent Debris Flow Forecasting.
 - *2025.02*: ✍️ Published my debut poetry collection *"Su Ge Ni Lan"* (《苏格尼兰》), China.
 - *2024.12*: 🎓 Awarded the Young Science and Technology Scientists Sponsorship Program by CAST (Doctoral Student Special Plan).
-- *2024.09*: 🛫 Started my joint PhD training at Nanyang Technological University (NTU), Singapore. 
+- *2024.09*: 🛫 Started my joint PhD training at Nanyang Technological University (NTU), Singapore.
+
+# **📖 Education**
+- *2024.09 - 2026.09*, Joint PhD Student, **Nanyang Technological University (NTU)**, Singapore.  
+  - Mentor: [Prof. Chu Jian](https://dr.ntu.edu.sg/entities/person/Chu-Jian)
+- *2022.09 - 2027.06 (Exp.)*, PhD Student, **Zhejiang University (ZJU)**, China.  
+  - Mentor: [Prof. Hongyue Sun](https://person.zju.edu.cn/0096428)
 
 # **🔍 Research Grants**
 - **The Seed Fund Cultivation Project of  Ocean College, Zhejiang University**, No. 2025BS004, "Research on Intelligent Debris Flow Forecasting Methods for Small Watersheds Based on Multi-scale Hydrodynamic Coupling Mechanisms", **2025.06 - 2027.06**.
@@ -40,7 +46,6 @@ You can find my research profile and real-time citation count on <a href='https:
 - **China Scholarship Council (CSC) Grant**, No. 202406320358, "Research on Early Spatiotemporal Prediction of Debris Flows and Disaster Control in Small Watersheds", **2024.09 - 2026.09**.
 
 # **📝 Publications** <span class='anchor' id='-publications'></span>
-
 ## **Journal Articles**
 * [1] **Tianlong Wang**, Q. Ge, T. Ma, et al. A novel method for predicting debris flow hazard: a multi-strategy fusion approach based on the light gradient boosting machine framework. *Stochastic Environmental Research and Risk Assessment*, **2025**. (JCR Q1) [[DOI]](https://doi.org/10.1007/s00477-025-02955-9)
 * [2] H. Yang, **Tianlong Wang***, N.I. Fomin, S. Xiao, L. Liu. An integrated IKOA-CNN-BiGRU-Attention framework with SHAP explainability for high-precision debris flow hazard prediction in the Nujiang river basin, China. *PLoS One*, 20(6): e0326587, **2025**. (Corresponding Author, JCR Q2) [[DOI]](https://doi.org/10.1371/journal.pone.0326587)
@@ -54,7 +59,7 @@ You can find my research profile and real-time citation count on <a href='https:
 * [1] **Tianlong Wang**, J. Wang, X. Shao. Carbon emission forecast of China Transport Industry Based on Grey - Markov. *In Proceedings of the International Conference on Computing and Big Data (ICCBD)*, **2021**. [[DOI]](https://doi.org/10.1109/ICCBD53833.2021.00192)
 
 ## **Patents**
-* [1] H. Sun, X. Wang, **Tianlong Wang**, R. Tang, R. Luo. *Monitoring and Early Warning Method and System for Rainfall-induced Debris Flow*. **Japanese Invention Patent**, No: 2024-017304, **2024**. (Granted)
+* [1] H. Sun, X. Wang, **Tianlong Wang**, R. Tang, R. Luo. *Monitoring and Early Warning Method and System for Rainfall-induced Debris Flow*. Japanese Invention Patent, No: 2024-017304, **2024**. (Granted)
 * [2] X. Wang, H. Sun, ..., **Tianlong Wang**. *Early Warning and Mitigation Method for Debris Flow Disasters in Small Watersheds*. Chinese Invention Patent, No: CN118262481A, **2024**. (In Review)
 * [3] X. Wang, H. Sun, **Tianlong Wang**, R. Tang, R. Luo. *Monitoring and Early Warning Method and System for Rainfall-induced Landslides*. Chinese Invention Patent, No: CN117854239A, **2024**. (In Review)
 * [4] **Tianlong Wang**, H. Sun, Z. Chu, R. Luo, X. Wang. *Landslide Displacement Prediction Method Based on IVMD-IAO-BiLSTM*. Chinese Invention Patent, No: CN116757323A, **2023**. (In Review)
@@ -64,32 +69,31 @@ You can find my research profile and real-time citation count on <a href='https:
 * [8] J. Liu, Q. Shi, Z. Wei, ..., **Tianlong Wang**, et al. *Pile Structure and Construction Method in Coral Sand Environment*. Chinese Invention Patent, No: CN110886291B, **2021**. (Granted)
 
 # **🏆 Competitions**
-- *2025.11* **Silver Award(International)**, China International College Students' Innovation Competition (2025), Singapore Regional.
-- *2024.08* **Silver Award(Provincial)**, Zhejiang International College Students' Innovation Competition (Internet+), China.
-- *2023.06* **Silver Award(Provincial)**, The 15th "Dandelion" University Student Entrepreneurship Competition, Zhejiang University.
-- *2021.08* **Second Prize (National)**, The 14th National University Student Social Practice and Science Contest on Energy Saving and Emission Reduction.
-- *2021.07* **Third Prize (National)**, The 8th National Financial and Securities Investment Simulation Training Contest.
-- *2021.06* **<span style="color: red;">Grand Prize (National)</span>**, The 3rd National College Student Structural Design Information Technology Competition.
-- *2021.05* **Third Prize (Provincial)**, The 13th "Challenge Cup" National Undergraduate Curricular Academic Science and Technology Works Conference.
-- *2020.11* **Second Prize (Provincial)**, Contemporary Undergraduate Mathematical Contest in Modeling.
-- *2020.07* **Third Prize (Provincial)**, The 5th National Construction College Construction Technology Application Skills Competition.
+- *2025.11* **Silver Award (International)**, China International College Students' Innovation Competition, Singapore Regional.
+- *2024.08* **Silver Award (Provincial)**, Zhejiang International College Students' Innovation Competition (Internet+), China.
+- *2024.05* **Bronze Award (Provincial)**, The 14th "Challenge Cup" Zhejiang Undergraduate Entrepreneurship Plan Competition, China.
+- *2023.06* **Silver Award (Provincial)**, The 15th "Dandelion" University Student Entrepreneurship Competition, Zhejiang University.
+- *2022.04* **Honorable Mention(International)**, Interdisciplinary Contest in Modeling (MCM/ICM), USA.
+- *2021.08* **Second Prize (National)**, The 14th National University Student Social Practice and Science Contest on Energy Saving and Emission Reduction, China.
+- *2021.07* **First Prize (Regional) & Third Prize (National)**, The 8th National Financial and Securities Investment Simulation Training Contest, China.
+- *2021.06* **<span style="color: red;">Grand Prize (National)</span>**, The 3rd National College Student Structural Design Information Technology Competition, China.
+- *2021.05* **Third Prize (Provincial)**, The 13th "Challenge Cup" National Undergraduate Curricular Academic Science and Technology Works Conference (Hubei), China.
+- *2021.02* **Honorable Mention(International)**, Mathematical Contest in Modeling (MCM/ICM), USA.
+- *2020.11* **Second Prize (Provincial)**, Contemporary Undergraduate Mathematical Contest in Modeling (Hubei), China.
+- *2020.07* **Third Prize (Provincial)**, The 5th National Construction College Construction Technology Application Skills Competition (Hubei), China.
 
 # **⭐ Honors**
-- *2023.12* China Harbour Engineering Company (CHEC) Scholarship (National).
-- *2022.11* **<span style="color: red;">Outstanding Graduate (Top 100)</span>**, City Underground Space Engineering Professional Committee, CSRME.
-- *2021.12* **National Scholarship**, China (National).
-- *2020.12* Wang Shuopeng Scholarship (National).
-- *2019 - 2022* First-Class Academic Scholarship, University Level (Four consecutive years).
-- *2019 - 2021* National Encouragement Scholarship (Three consecutive years).
-
-# **📖 Education**
-- *2024.09 - 2026.09*, Joint PhD Student, **Nanyang Technological University (NTU)**, Singapore.  
-  - Mentor: [Prof. Chu Jian](https://dr.ntu.edu.sg/entities/person/Chu-Jian)
-- *2022.09 - 2027.06 (Exp.)*, PhD Student, **Zhejiang University (ZJU)**, China.  
-  - Mentor: [Prof. Hongyue Sun](https://person.zju.edu.cn/0096428)
+- *2023.12* China Harbour Engineering Company (CHEC) Scholarship (Top 2%, National).
+- *2022.11* **<span style="color: red;">Outstanding Graduate</span>**, City Underground Space Engineering Professional Committee, CSRME (Top 100, National).
+- *2022.06* Yunneng Electric Power Innovation Scholarship (Top 2%, University Level).
+- *2021.12* **National Scholarship**, China (Top 1%, National).
+- *2020.12* Wang Shuopeng Scholarship (Top 2%, National).
+- *2019 - 2022* First-Class Academic Scholarship, University Level (Top 5%, University Level, *Four consecutive years*).
+- *2019 - 2021* National Encouragement Scholarship (Top 5%, National, *Three consecutive years*).
 
 # **🧩 Misc** <span class='anchor' id='-experience--beyond'></span>
-- *2023.07 - 2023.09*, **Intern**, China International Science and Technology Exchange Center, CAST, Beijing, China.
+- *2023.07 - 2023.09*, **Intern**, China International Science and Technology Exchange Center, China Association for Science and Technology (CAST), Beijing, China.
 - *2022.06 - 2024.06*, **President**, Student Fitness Club, Ocean College, Zhejiang University.
-- *2019.11 - Present*, **Independent Poet**, Published Debut Poetry Collection "Su Ge Ni Lan".
+- *2019.11 - Present*, **Independent Poet**, Published Debut Poetry Collection *"Su Ge Ni Lan"* (《苏格尼兰》).
 - *2019.07 - 2019.08*, **Volunteer Teacher**, Baihuaping Community, Shennongjia, China.
+- *2019.06 - 2019.07*, **Intern**, Yujing Tiandi Project, Kunfa Construction Co., Ltd., China.
