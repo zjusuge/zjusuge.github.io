@@ -74,8 +74,8 @@ You can find my research profile and real-time citation count on <a href='https:
 - *2022.09 - 2027.06 (Exp.)*, PhD Student in Marine Technology and Engineering, Zhejiang University (ZJU), China.
   - Mentor: [Prof. Hongyue Sun](https://person.zju.edu.cn/0096428)
 
-# **💻 Internship**
+# **🧩 Misc**
 - *2023.07 - 2023.09*, Intern, China International Science and Technology Exchange Center, China Association for Science and Technology (CAST), Beijing, China.
-- *2022.06 - 2024.06*, President, Student Fitness Club, Ocean College, Zhejiang University, Zhoushan, China.
+- *2022.06 - 2024.06*, President, Student Fitness Club, Ocean College, Zhejiang University, China.
+- *2019.11 - Present*, Independent Poet, Published Debut Poetry Collection "Su Ge Ni Lan", China.
 - *2019.07 - 2019.08*, Volunteer Teacher, Baihuaping Community, Shennongjia, China.
-- *2019.11 - now*, Independent Poet, Published Debut Collection "Su Ge Ni Lan", Chengdu, China.
