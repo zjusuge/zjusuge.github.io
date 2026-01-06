@@ -60,7 +60,7 @@ You can find my research profile and real-time citation count on <a href='https:
 - *2020.11* Second Prize (Provincial), Contemporary Undergraduate Mathematical Contest in Modeling, Yichang, China.
 - *2020.07* Third Prize (Provincial), The 5th National Construction College Construction Technology Application Skills Competition, Wuhan, China.
 
-# **💰 Scholarships & Honors**
+# **💰 Honors**
 - *2023.12* China Harbour Engineering Company (CHEC) Scholarship, China.
 - *2022.11* Outstanding Graduate (Top 100), City Underground Space Engineering Professional Committee, Chinese Society for Rock Mechanics and Engineering, China.
 - *2021.12* National Scholarship, China.
