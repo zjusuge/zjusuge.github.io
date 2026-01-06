@@ -33,10 +33,10 @@ You can find my research profile and real-time citation count on <a href='https:
 - *2024.09*: 🛫 Started my joint PhD training at Nanyang Technological University (NTU), Singapore. 
 
 # **🔍 Research Grants**
-- **<span style="color: red;">Young Science and Technology Scientists Sponsorship Program by CAST</span>**, No. 156-O-170-0000603-2, "Spatiotemporal Dynamic Forecasting and Interpretive Analysis System for Debris Flows in Small Watersheds", 2025.01 - 2026.12, **PI**.
-- **China Scholarship Council (CSC) Grant**, No. 202406320358, "Research on Early Spatiotemporal Prediction of Debris Flows and Disaster Control in Small Watersheds", 2024.09 - 2026.09, **PI**.
-- **Zhejiang University Seed Fund Cultivation Project**, No. 2025BS004, "Research on Intelligent Debris Flow Forecasting Methods for Small Watersheds Based on Multi-scale Hydrodynamic Coupling Mechanisms", 2025.06 - 2027.06, **PI**.
-- **<span style="color: red;">Outstanding Doctoral Dissertation Fund</span>**, Zhejiang University, No. 12234058, 2025.07 - 2026.07, **PI**.
+- **<span style="color: red;">Young Science and Technology Scientists Sponsorship Program by CAST</span>**, No. 156-O-170-0000603-2, "Spatiotemporal Dynamic Forecasting and Interpretive Analysis System for Debris Flows in Small Watersheds", 2025.01 - 2026.12.
+- **China Scholarship Council (CSC) Grant**, No. 202406320358, "Research on Early Spatiotemporal Prediction of Debris Flows and Disaster Control in Small Watersheds", 2024.09 - 2026.09.
+- **Zhejiang University Seed Fund Cultivation Project**, No. 2025BS004, "Research on Intelligent Debris Flow Forecasting Methods for Small Watersheds Based on Multi-scale Hydrodynamic Coupling Mechanisms", 2025.06 - 2027.06.
+- **<span style="color: red;">Outstanding Doctoral Dissertation Fund</span>**, Zhejiang University, No. 12234058, 2025.07 - 2026.07.
 
 # **📝 Publications** <span class='anchor' id='-publications'></span>
 
@@ -77,13 +77,13 @@ You can find my research profile and real-time citation count on <a href='https:
 - *2020.11* **Second Prize (Provincial)**, Contemporary Undergraduate Mathematical Contest in Modeling, China.
 - *2020.07* **Third Prize (Provincial)**, The 5th National Construction College Construction Technology Application Skills Competition, China.
 
-# **💰 Honors**
-- *2023.12* China Harbour Engineering Company (CHEC) Scholarship.
-- *2022.11* **Outstanding Graduate (Top 100)**, City Underground Space Engineering Professional Committee, CSRME.
-- *2021.12* **National Scholarship**, China.
-- *2019 - 2022* First-Class Academic Scholarship, University Level (Four consecutive years).
-- *2019 - 2021* National Encouragement Scholarship (Three consecutive years).
-- *2020.12* Wang Shuopeng Scholarship.
+# **⭐ Honors**
+- *2023.12* China Harbour Engineering Company (CHEC) Scholarship(National).
+- *2022.11* **<span style="color: red;">Outstanding Graduate (Top 100)</span>**, City Underground Space Engineering Professional Committee, CSRME(National).
+- *2021.12* **National Scholarship**, China(National).
+- *2019 - 2022* First-Class Academic Scholarship, University Level (Four consecutive years)(School).
+- *2019 - 2021* National Encouragement Scholarship (Three consecutive years)(National).
+- *2020.12* Wang Shuopeng Scholarship(National).
 
 # **📖 Education**
 - *2024.09 - 2026.09*, Joint PhD Student, **Nanyang Technological University (NTU)**, Singapore. 
