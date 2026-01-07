@@ -58,7 +58,7 @@ You can find my research profile and real-time citation count on <a href='https:
 1. **Tianlong Wang**, R. Luo, T. Ma, et al. Study and verification on an improved comprehensive prediction model of landslide displacement. *Bulletin of Engineering Geology and the Environment*, 83, 90, **2024**. (JCR Q1) [[DOI]](https://doi.org/10.1007/s10064-024-03581-5)
 1. Z. Chu, S. Yu, X. Li, X. Lu, X. Wang, R. Luo, **Tianlong Wang**\*. Laboratory model test on the treatment of engineering slurry by vacuum drainage method. *Journal of Yangtze River Scientific Research Institute*, 41(9): 114-122, **2024**. (Corresponding Author, CSCD/Core Journal) [[DOI]](https://doi.org/10.11988/ckyyb.20230665)
 1. **Tianlong Wang**, D. Peng, X. Wang, B. Wu, R. Luo, Z. Chu, H. Sun\*. Study on wavelet multi-scale analysis and prediction of landslide groundwater. *Journal of Hydroinformatics*, 26(1), 237–254, **2024**. (JCR Q2) [[DOI]](https://doi.org/10.2166/hydro.2023.299)
-1. X. Xu, X. Lei\*, **Tianlong Wang**, G. Kong, C. Li. Experimental study on shear mechanical properties of pile-coral sand interface. *Chinese Journal of Underground Space and Engineering*, 18(6): 1563-1571, **2022**. (CSCD/Core Journal)
+2. X. Xu, X. Lei*, **Tianlong Wang**, G. Kong, C. Li. Experimental study on shear mechanical properties of pile-coral sand interface. *Chinese Journal of Underground Space and Engineering*, 18(6): 1563-1571, **2022**. (CSCD/Core Journal) [[DOI]](https://doi.org/10.3969/j.issn.1673-0836.2022.06.012)
 1. **Tianlong Wang**, H. Zhang, X. Tao, W. Chu. Research on Prediction and Optimization of Slope Deformation in Mining Area. *Environment, Resource and Ecology Journal*, 4:66-69, **2020**. (JCR Q4) [[DOI]](https://doi.org/10.23977/erej.2020.040110)
 
 ## **Conference Papers**
