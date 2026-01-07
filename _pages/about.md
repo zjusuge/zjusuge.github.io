@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# **👋 About Me**
+# **👋 About Me** <span class='anchor' id='about-me'></span>
 
 I am a PhD student at Zhejiang University (ZJU), currently participating in a joint training program at Nanyang Technological University (NTU). My research is situated at the intersection of **Artificial Intelligence** and **Disaster Prevention and Mitigation**.
 
@@ -25,26 +25,26 @@ Specifically, I focus on leveraging machine learning and deep learning framework
 
 You can find my research profile and real-time citation count on <a href='https://scholar.google.com/citations?user=JNiHto0AAAAJ'>Google Scholar <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
-# **🔥 News**
-- *2025.11*: 🎉🎉 Awarded the Silver Award in the China International College Students' Innovation Competition (2025) Singapore Regional.
-- *2025.07*: 🚀 Selected for the Outstanding Doctoral Dissertation Award cultivation program at Zhejiang University.
+# **🔥 News** <span class='anchor' id='news'></span>
+- *2025.11*: 🎉🎉 Awarded the Silver Award in the China International College Students' Innovation Competition Singapore Regional, Singapore.
+- *2025.07*: 🚀 Selected for the Outstanding Doctoral Dissertation Award cultivation program at Zhejiang University, China.
 - *2025.02*: ✍️ Published my debut poetry collection *"Su Ge Ni Lan"*, China.
 - *2024.12*: 🎓 Awarded the Young Science and Technology Scientists Sponsorship Program by CAST (Doctoral Student Special Plan).
 - *2024.09*: 🛫 Started my joint PhD training at Nanyang Technological University (NTU), Singapore.
 
-# **📖 Education**
+# **📖 Education** <span class='anchor' id='education'></span>
 - *2024.09 - 2026.09*, Joint PhD Student, **Nanyang Technological University (NTU)**, Singapore.  
   - Mentor: [Prof. Chu Jian](https://dr.ntu.edu.sg/entities/person/Chu-Jian)
 - *2022.09 - 2027.06 (Exp.)*, PhD Student, **Zhejiang University (ZJU)**, China.  
   - Mentor: [Prof. Hongyue Sun](https://person.zju.edu.cn/0096428)
 
-# **🔍 Research Grants**
+# **🔍 Research Grants** <span class='anchor' id='research-grants'></span>
 - **The Seed Fund Cultivation Project of Ocean College, Zhejiang University**, No. 2025BS004, "Research on Intelligent Debris Flow Forecasting Methods for Small Watersheds Based on Multi-scale Hydrodynamic Coupling Mechanisms", **2025.06 - 2027.06**, China.
 - **<span style="color: red;">Outstanding Doctoral Dissertation Fund</span>**, Zhejiang University, No. 12234058, **2025.07 - 2026.07**, China.
 - **<span style="color: red;">Young Science and Technology Scientists Sponsorship Program by CAST</span>**, No. 156-O-170-0000603-2, "Spatiotemporal Dynamic Forecasting and Interpretive Analysis System for Debris Flows in Small Watersheds", **2025.01 - 2026.12**, China.
 - **China Scholarship Council (CSC) Grant**, No. 202406320358, "Research on Early Spatiotemporal Prediction of Debris Flows and Disaster Control in Small Watersheds", **2024.09 - 2026.09**, China.
 
-# **📝 Publications** <span class='anchor' id='-publications'></span>
+# **📝 Publications** <span class='anchor' id='publications'></span>
 
 ## **Journal Articles**
 {% comment %} 
@@ -75,7 +75,7 @@ You can find my research profile and real-time citation count on <a href='https:
 1. J. Liu, Q. Shi, Z. Wei, S. Li, L. Tang, **Tianlong Wang**, et al. *Device and Method for Obtaining the Position of Liquid Displacement Surface in Rock Cracks*. Chinese Invention Patent, No: CN111595550B, **2022**. (Granted)
 1. J. Liu, Q. Shi, Z. Wei, S. Li, L. Tang, **Tianlong Wang**, et al. *Pile Structure and Construction Method in Coral Sand Environment*. Chinese Invention Patent, No: CN110886291B, **2021**. (Granted)
 
-# **🏆 Competitions**
+# **🏆 Competitions** <span class='anchor' id='competitions'></span>
 - *2025.11* **Silver Award**, China International College Students' Innovation Competition, Singapore Regional, Singapore.
 - *2024.08* **Silver Award**, Zhejiang International College Students' Innovation Competition (Internet+), China.
 - *2024.05* **Bronze Award**, The 14th "Challenge Cup" Zhejiang Undergraduate Entrepreneurship Plan Competition, China.
@@ -89,7 +89,7 @@ You can find my research profile and real-time citation count on <a href='https:
 - *2020.11* **Second Prize**, Contemporary Undergraduate Mathematical Contest in Modeling (Hubei), China.
 - *2020.07* **Third Prize**, The 5th National Construction College Construction Technology Application Skills Competition (Hubei), China.
 
-# **⭐ Honors**
+# **⭐ Honors** <span class='anchor' id='honors'></span>
 - *2023.12* China Harbour Engineering Company (CHEC) Scholarship (Top 2%), China.
 - *2022.11* **<span style="color: red;">Outstanding Graduate</span>**, City Underground Space Engineering Professional Committee, CSRME (Top 100), China.
 - *2022.06* Yunneng Electric Power Innovation Scholarship (Top 2%), China.
@@ -98,7 +98,7 @@ You can find my research profile and real-time citation count on <a href='https:
 - *2019 - 2022* First-Class Academic Scholarship, University Level (Top 5%, *Four consecutive years*), China.
 - *2019 - 2021* National Encouragement Scholarship (Top 5%, *Three consecutive years*), China.
 
-# **🧩 Misc** <span class='anchor' id='-experience--beyond'></span>
+# **🧩 Misc** <span class='anchor' id='misc'></span>
 - *2023.07 - 2023.09*, **Intern**, China International Science and Technology Exchange Center, China Association for Science and Technology (CAST), Beijing, China.
 - *2022.06 - 2024.06*, **President**, Student Fitness Club, Ocean College, Zhejiang University, Zhoushan, China.
 - *2019.11 - Present*, **Independent Poet**, Published Debut Poetry Collection *"Su Ge Ni Lan"*, Chengdu, China.
