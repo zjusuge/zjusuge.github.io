@@ -28,7 +28,7 @@ You can find my research profile and real-time citation count on <a href='https:
 # **🔥 News** <span class='anchor' id='news'></span>
 - *2025.11*: 🎉🎉 Awarded the Silver Award in the China International College Students' Innovation Competition Singapore Regional, Singapore.
 - *2025.07*: 🚀 Selected for the Outstanding Doctoral Dissertation Award cultivation program at Zhejiang University, China.
-- *2025.02*: ✍️ Published my debut poetry collection *"Su Ge Ni Lan"*, China.
+- *2025.02*: ✍️ Published my debut poetry collection *"Suganniran"*, China.
 - *2024.12*: 🎓 Awarded the Young Science and Technology Scientists Sponsorship Program by CAST (Doctoral Student Special Plan).
 - *2024.09*: 🛫 Started my joint PhD training at Nanyang Technological University (NTU), Singapore.
 
@@ -101,6 +101,6 @@ You can find my research profile and real-time citation count on <a href='https:
 # **🧩 Misc** <span class='anchor' id='misc'></span>
 - *2023.07 - 2023.09*, **Intern**, China International Science and Technology Exchange Center, China Association for Science and Technology (CAST), Beijing, China.
 - *2022.06 - 2024.06*, **President**, Student Fitness Club, Ocean College, Zhejiang University, Zhoushan, China.
-- *2019.11 - Present*, **Independent Poet**, Published Debut Poetry Collection *"Su Ge Ni Lan"*, Chengdu, China.
+- *2019.11 - Present*, **Independent Poet**, Published Debut Poetry Collection *"Suganniran"*, Chengdu, China.
 - *2019.07 - 2019.08*, **Volunteer Teacher**, Baihuaping Community, Shennongjia, China.
 - *2019.06 - 2019.07*, **Intern**, Yujing Tiandi Project, Kunfa Construction Co., Ltd., Yichang, China.
