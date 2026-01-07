@@ -44,6 +44,8 @@ You can find my research profile and real-time citation count on <a href='https:
 - **<span style="color: red;">Young Science and Technology Scientists Sponsorship Program by CAST</span>**, No. 156-O-170-0000603-2, "Spatiotemporal Dynamic Forecasting and Interpretive Analysis System for Debris Flows in Small Watersheds", **2025.01 - 2026.12**, China.
 - **China Scholarship Council (CSC) Grant**, No. 202406320358, "Research on Early Spatiotemporal Prediction of Debris Flows and Disaster Control in Small Watersheds", **2024.09 - 2026.09**, China.
 
+# **📝 Publications** <span class='anchor' id='-publications'></span>
+
 ## **Journal Articles**
 {% comment %} 
 提示：通过使用 \* 转义字符，确保星号不会触发 Markdown 的斜体格式。
