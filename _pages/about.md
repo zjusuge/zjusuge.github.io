@@ -75,6 +75,20 @@ You can find my research profile and real-time citation count on <a href='https:
 1. J. Liu, Q. Shi, Z. Wei, S. Li, L. Tang, **Tianlong Wang**, et al. *Device and Method for Obtaining the Position of Liquid Displacement Surface in Rock Cracks*. Chinese Invention Patent, No: CN111595550B, **2022**. (Granted)
 1. J. Liu, Q. Shi, Z. Wei, S. Li, L. Tang, **Tianlong Wang**, et al. *Pile Structure and Construction Method in Coral Sand Environment*. Chinese Invention Patent, No: CN110886291B, **2021**. (Granted)
 
+# **🏆 Competitions**
+- *2025.11* **Silver Award**, China International College Students' Innovation Competition, Singapore Regional, Singapore.
+- *2024.08* **Silver Award**, Zhejiang International College Students' Innovation Competition (Internet+), China.
+- *2024.05* **Bronze Award**, The 14th "Challenge Cup" Zhejiang Undergraduate Entrepreneurship Plan Competition, China.
+- *2023.06* **Silver Award**, The 15th "Dandelion" University Student Entrepreneurship Competition, Zhejiang University, China.
+- *2022.04* **Honorable Mention**, Interdisciplinary Contest in Modeling (MCM/ICM), USA.
+- *2021.08* **Second Prize**, The 14th National University Student Social Practice and Science Contest on Energy Saving and Emission Reduction, China.
+- *2021.07* **First Prize (Regional) and Third Prize (National)**, The 8th National Financial and Securities Investment Simulation Training Contest, China.
+- *2021.06* **<span style="color: red;">Grand Prize</span>**, The 3rd National College Student Structural Design Information Technology Competition, China.
+- *2021.05* **Third Prize**, The 13th "Challenge Cup" National Undergraduate Curricular Academic Science and Technology Works Conference (Hubei), China.
+- *2021.02* **Honorable Mention**, Mathematical Contest in Modeling (MCM/ICM), USA.
+- *2020.11* **Second Prize**, Contemporary Undergraduate Mathematical Contest in Modeling (Hubei), China.
+- *2020.07* **Third Prize**, The 5th National Construction College Construction Technology Application Skills Competition (Hubei), China.
+
 # **⭐ Honors**
 - *2023.12* China Harbour Engineering Company (CHEC) Scholarship (Top 2%), China.
 - *2022.11* **<span style="color: red;">Outstanding Graduate</span>**, City Underground Space Engineering Professional Committee, CSRME (Top 100), China.
