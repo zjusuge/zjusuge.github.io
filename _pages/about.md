@@ -82,13 +82,13 @@ You can find my research profile and real-time citation count on <a href='https:
 - *2020.07* **Third Prize**, The 5th National Construction College Construction Technology Application Skills Competition (Hubei), China.
 
 # **⭐ Honors**
-- *2023.12* China Harbour Engineering Company (CHEC) Scholarship (Top 2%).
-- *2022.11* **<span style="color: red;">Outstanding Graduate</span>**, City Underground Space Engineering Professional Committee, CSRME (Top 100).
-- *2022.06* Yunneng Electric Power Innovation Scholarship (Top 2%).
-- *2021.12* **National Scholarship**, China (Top 1%).
-- *2020.12* Wang Shuopeng Scholarship (Top 2%).
-- *2019 - 2022* First-Class Academic Scholarship, University Level (Top 5%, *Four consecutive years*).
-- *2019 - 2021* National Encouragement Scholarship (Top 5%, *Three consecutive years*).
+- *2023.12* China Harbour Engineering Company (CHEC) Scholarship (Top 2%), China.
+- *2022.11* **<span style="color: red;">Outstanding Graduate</span>**, City Underground Space Engineering Professional Committee, CSRME (Top 100), China.
+- *2022.06* Yunneng Electric Power Innovation Scholarship (Top 2%), China.
+- *2021.12* **National Scholarship**, China (Top 1%), China.
+- *2020.12* Wang Shuopeng Scholarship (Top 2%), China.
+- *2019 - 2022* First-Class Academic Scholarship, University Level (Top 5%, *Four consecutive years*), China.
+- *2019 - 2021* National Encouragement Scholarship (Top 5%, *Three consecutive years*), China.
 
 # **🧩 Misc** <span class='anchor' id='-experience--beyond'></span>
 - *2023.07 - 2023.09*, **Intern**, China International Science and Technology Exchange Center, China Association for Science and Technology (CAST), Beijing, China.
