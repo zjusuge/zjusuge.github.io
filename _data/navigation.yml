@@ -13,7 +13,7 @@ main:
     url: "/#research-grants"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
 
   - title: "Competitions"     
     url: "/#competitions"
@@ -22,4 +22,4 @@ main:
     url: "/#honors"
 
   - title: "Misc"             
-    url: "/#-experience--beyond"
+    url: "/#misc"
