@@ -39,7 +39,7 @@ You can find my research profile and real-time citation count on <a href='https:
   - Mentor: [Prof. Hongyue Sun](https://person.zju.edu.cn/0096428)
 
 # **🔍 Research Grants**
-- **The Seed Fund Cultivation Project of  Ocean College, Zhejiang University**, No. 2025BS004, "Research on Intelligent Debris Flow Forecasting Methods for Small Watersheds Based on Multi-scale Hydrodynamic Coupling Mechanisms", **2025.06 - 2027.06**, China.
+- **The Seed Fund Cultivation Project of Ocean College, Zhejiang University**, No. 2025BS004, "Research on Intelligent Debris Flow Forecasting Methods for Small Watersheds Based on Multi-scale Hydrodynamic Coupling Mechanisms", **2025.06 - 2027.06**, China.
 - **<span style="color: red;">Outstanding Doctoral Dissertation Fund</span>**, Zhejiang University, No. 12234058, **2025.07 - 2026.07**, China.
 - **<span style="color: red;">Young Science and Technology Scientists Sponsorship Program by CAST</span>**, No. 156-O-170-0000603-2, "Spatiotemporal Dynamic Forecasting and Interpretive Analysis System for Debris Flows in Small Watersheds", **2025.01 - 2026.12**, China.
 - **China Scholarship Council (CSC) Grant**, No. 202406320358, "Research on Early Spatiotemporal Prediction of Debris Flows and Disaster Control in Small Watersheds", **2024.09 - 2026.09**, China.
@@ -49,19 +49,34 @@ You can find my research profile and real-time citation count on <a href='https:
 ## **Journal Articles**
 {% comment %} 
 提示：这里全部使用 "1." 开头，GitHub 会自动渲染为连续的 1, 2, 3... 
-格式说明：姓名（加粗）、期刊（斜体）、年份（加粗）、评价（括号）。
+格式说明：姓名（加粗）、通讯作者（*）、期刊（斜体）、年份（加粗）。
 {% endcomment %}
-1. **Tianlong Wang**, H. Sun*, R. Luo, T. Ma, X. Wang. A hybrid landslide displacement prediction model based on multi-scale feature fusion and Transformer-BiGRU network. *Journal of Rock Mechanics and Geotechnical Engineering*, **2026**. (JCR Q1) [[DOI]](https://doi.org/10.1016/j.jrmge.2025.12.001)
+1. **Tianlong Wang**, H. Sun*, R. Luo, T. Ma, X. Wang. A hybrid landslide displacement prediction model based on multi-scale feature fusion and Transformer-BiGRU network. *Journal of Rock Mechanics and Geotechnical Engineering*, **2026**. (JCR Q1, Top Journal) [[DOI]](https://doi.org/10.1016/j.jrmge.2025.12.001)
 1. K. Zhang, **Tianlong Wang***, J. Su, H. Sun. Impacts of land use change on hydrological processes based on SWAT-ML-SHAP model: A case study of Fenshuijiang Watershed, China. *Earth Science*, **2025**. (Corresponding Author, EI/CSCD) [[DOI]](https://doi.org/10.3799/dqkx.2025.290)
 1. B. Lu, Y. Yu*, S. Liu, **Tianlong Wang**, Z. Xu. Multi-parameter calibration method and application of constitutive model based on improved dung beetle optimization algorithm. *Journal of Disaster Prevention and Mitigation Engineering*, **2025**. (CSCD/Core Journal) [[DOI]](https://doi.org/10.13409/j.cnki.jdpme.20250224001)
-1. **Tianlong Wang**, Q. Ge, T. Ma, et al. A novel method for predicting debris flow hazard: a multi-strategy fusion approach based on the light gradient boosting machine framework. *Stochastic Environmental Research and Risk Assessment*, **2025**. (JCR Q1) [[DOI]](https://doi.org/10.1007/s00477-025-02955-9)
 1. H. Yang, **Tianlong Wang***, N.I. Fomin, S. Xiao, L. Liu. An integrated IKOA-CNN-BiGRU-Attention framework with SHAP explainability for high-precision debris flow hazard prediction in the Nujiang river basin, China. *PLoS One*, 20(6): e0326587, **2025**. (Corresponding Author, JCR Q2) [[DOI]](https://doi.org/10.1371/journal.pone.0326587)
+1. **Tianlong Wang**, Q. Ge, T. Ma, et al. A novel method for predicting debris flow hazard: a multi-strategy fusion approach based on the light gradient boosting machine framework. *Stochastic Environmental Research and Risk Assessment*, **2025**. (JCR Q1) [[DOI]](https://doi.org/10.1007/s00477-025-02955-9)
 1. **Tianlong Wang**, K. Zhang, Z. Liu, T. Ma, R. Luo, H. Chen, X. Wang, W. Ge, H. Sun*. Prediction and explanation of debris flow velocity based on multi-strategy fusion Stacking ensemble learning model. *Journal of Hydrology*, 638, 131347, **2024**. (JCR Q1) [[DOI]](https://doi.org/10.1016/j.jhydrol.2024.131347)
-1. **Tianlong Wang**, R. Luo, T. Ma, et al. Study and verification on an improved comprehensive prediction model of landslide displacement. *Bulletin of Engineering Geology and the Environment*, 83, 90, **2024**. (JCR Q1) [[DOI]](https://doi.org/10.1007/s00477-025-02955-9)
+1. **Tianlong Wang**, R. Luo, T. Ma, et al. Study and verification on an improved comprehensive prediction model of landslide displacement. *Bulletin of Engineering Geology and the Environment*, 83, 90, **2024**. (JCR Q1) [[DOI]](https://doi.org/10.1007/s10064-024-03581-5)
 1. Z. Chu, S. Yu, X. Li, X. Lu, X. Wang, R. Luo, **Tianlong Wang***. Laboratory model test on the treatment of engineering slurry by vacuum drainage method. *Journal of Yangtze River Scientific Research Institute*, 41(9): 114-122, **2024**. (Corresponding Author, CSCD/Core Journal) [[DOI]](https://doi.org/10.11988/ckyyb.20230665)
 1. **Tianlong Wang**, D. Peng, X. Wang, B. Wu, R. Luo, Z. Chu, H. Sun*. Study on wavelet multi-scale analysis and prediction of landslide groundwater. *Journal of Hydroinformatics*, 26(1), 237–254, **2024**. (JCR Q2) [[DOI]](https://doi.org/10.2166/hydro.2023.299)
 1. X. Xu, X. Lei*, **Tianlong Wang**, G. Kong, C. Li. Experimental study on shear mechanical properties of pile-coral sand interface. *Chinese Journal of Underground Space and Engineering*, 18(6): 1563-1571, **2022**. (CSCD/Core Journal)
 1. **Tianlong Wang**, H. Zhang, X. Tao, W. Chu. Research on Prediction and Optimization of Slope Deformation in Mining Area. *Environment, Resource and Ecology Journal*, 4:66-69, **2020**. (JCR Q4) [[DOI]](https://doi.org/10.23977/erej.2020.040110)
+
+
+
+## **Conference Papers**
+1. **Tianlong Wang**, J. Wang, X. Shao. Carbon emission forecast of China Transport Industry Based on Grey - Markov. *In Proceedings of the International Conference on Computing and Big Data (ICCBD)*, **2021**. [[DOI]](https://doi.org/10.1109/ICCBD53833.2021.00192)
+
+## **Patents**
+1. H. Sun, X. Wang, **Tianlong Wang**, R. Tang, R. Luo. *Monitoring and Early Warning Method and System for Rainfall-induced Debris Flow*. Japanese Invention Patent, No: 2024-017304, **2024**. (Granted)
+1. X. Wang, H. Sun, S. Shao, R. Luo, **Tianlong Wang**. *Early Warning and Mitigation Method for Debris Flow Disasters in Small Watersheds*. Chinese Invention Patent, No: CN118262481A, **2024**. (In Review)
+1. X. Wang, H. Sun, **Tianlong Wang**, R. Tang, R. Luo. *Monitoring and Early Warning Method and System for Rainfall-induced Landslides*. Chinese Invention Patent, No: CN117854239A, **2024**. (In Review)
+1. **Tianlong Wang**, H. Sun, Z. Chu, R. Luo, X. Wang. *Landslide Displacement Prediction Method Based on IVMD-IAO-BiLSTM*. Chinese Invention Patent, No: CN116757323A, **2023**. (In Review)
+1. J. Liu, Z. Li, **Tianlong Wang**, et al. *Eccentric Hook-shaped Expansible Pre-stressed Anchoring Structure and Its Anchoring Method*. Chinese Invention Patent, No: CN113718767B, **2023**. (Granted)
+1. J. Liu, Z. Li, **Tianlong Wang**, et al. *Method for Repairing Dam Crack Defects Using Magnetic Mortar*. Chinese Invention Patent, No: CN114396022A, **2022**. (In Review)
+1. J. Liu, Q. Shi, Z. Wei, S. Li, L. Tang, **Tianlong Wang**, et al. *Device and Method for Obtaining the Position of Liquid Displacement Surface in Rock Cracks*. Chinese Invention Patent, No: CN111595550B, **2022**. (Granted)
+1. J. Liu, Q. Shi, Z. Wei, S. Li, L. Tang, **Tianlong Wang**, et al. *Pile Structure and Construction Method in Coral Sand Environment*. Chinese Invention Patent, No: CN110886291B, **2021**. (Granted)
 
 # **🏆 Competitions**
 - *2025.11* **Silver Award**, China International College Students' Innovation Competition, Singapore Regional, Singapore.
