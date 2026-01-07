@@ -17,11 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# **👋 About Me** <span class='anchor' id='about-me'></span>
+# **👋 About Me**
 
-I am a PhD student at Zhejiang University (ZJU), currently participating in a joint training program at Nanyang Technological University (NTU). My research is situated at the intersection of **Artificial Intelligence** and **Disaster Prevention and Mitigation**.
+I am a PhD student at **Zhejiang University (ZJU)**, currently participating in a joint training program at **Nanyang Technological University (NTU)**. My research is situated at the intersection of **Artificial Intelligence** and **Disaster Prevention and Mitigation**.
 
 Specifically, I focus on leveraging machine learning and deep learning frameworks to enhance the **early warning, spatiotemporal prediction, and intelligent mitigation** of geological hazards, such as debris flows and landslides.
+
+
 
 You can find my research profile and real-time citation count on <a href='https://scholar.google.com/citations?user=JNiHto0AAAAJ'>Google Scholar <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
@@ -48,7 +50,7 @@ You can find my research profile and real-time citation count on <a href='https:
 
 ## **Journal Articles**
 {% comment %} 
-提示：通过使用 \* 转义字符，确保星号不会触发 Markdown 的斜体格式。
+Using \* to ensure asterisks don't trigger italic formatting.
 {% endcomment %}
 1. K. Zhang, **Tianlong Wang**\*, J. Su, H. Sun. Impacts of land use change on hydrological processes based on SWAT-ML-SHAP model: A case study of Fenshuijiang Watershed, China. *Earth Science*, **2025**. (Corresponding Author, EI/CSCD) [[DOI]](https://doi.org/10.3799/dqkx.2025.290)
 1. B. Lu, Y. Yu\*, S. Liu, **Tianlong Wang**, Z. Xu. Multi-parameter calibration method and application of constitutive model based on improved dung beetle optimization algorithm. *Journal of Disaster Prevention and Mitigation Engineering*, **2025**. (CSCD/Core Journal) [[DOI]](https://doi.org/10.13409/j.cnki.jdpme.20250224001)
@@ -58,8 +60,11 @@ You can find my research profile and real-time citation count on <a href='https:
 1. **Tianlong Wang**, R. Luo, T. Ma, et al. Study and verification on an improved comprehensive prediction model of landslide displacement. *Bulletin of Engineering Geology and the Environment*, 83, 90, **2024**. (JCR Q1) [[DOI]](https://doi.org/10.1007/s10064-024-03581-5)
 1. Z. Chu, S. Yu, X. Li, X. Lu, X. Wang, R. Luo, **Tianlong Wang**\*. Laboratory model test on the treatment of engineering slurry by vacuum drainage method. *Journal of Yangtze River Scientific Research Institute*, 41(9): 114-122, **2024**. (Corresponding Author, CSCD/Core Journal) [[DOI]](https://doi.org/10.11988/ckyyb.20230665)
 1. **Tianlong Wang**, D. Peng, X. Wang, B. Wu, R. Luo, Z. Chu, H. Sun\*. Study on wavelet multi-scale analysis and prediction of landslide groundwater. *Journal of Hydroinformatics*, 26(1), 237–254, **2024**. (JCR Q2) [[DOI]](https://doi.org/10.2166/hydro.2023.299)
-2. X. Xu, X. Lei*, **Tianlong Wang**, G. Kong, C. Li. Experimental study on shear mechanical properties of pile-coral sand interface. *Chinese Journal of Underground Space and Engineering*, 18(6): 1563-1571, **2022**. (CSCD/Core Journal) [[DOI]](https://doi.org/10.3969/j.issn.1673-0836.2022.06.012)
+1. X. Xu, X. Lei\*, **Tianlong Wang**, G. Kong, C. Li. Experimental study on shear mechanical properties of pile-coral sand interface. *Chinese Journal of Underground Space and Engineering*, 18(6): 1563-1571, **2022**. (CSCD/Core Journal) [[DOI]](https://doi.org/10.3969/j.issn.1673-0836.2022.06.012)
+1. **Tianlong Wang**, Xiaorui Tao, Dong-kun Wu, Haotian Feng. Determining the location of River Dam Group based on set cover Model: A case study of Zambezi River Basin. *Scientific Research and Reviews*, 14:122, **2021**. [[DOI]](https://doi.org/10.28933/srr-2021-03-1005)
 1. **Tianlong Wang**, H. Zhang, X. Tao, W. Chu. Research on Prediction and Optimization of Slope Deformation in Mining Area. *Environment, Resource and Ecology Journal*, 4:66-69, **2020**. (JCR Q4) [[DOI]](https://doi.org/10.23977/erej.2020.040110)
+1. **Tianlong Wang**, Hongyan Bao, Hairui Zhang. Optimization of Task Pricing Based on Multiple Regression Analysis and Game Theory. *Journal of eSciences*, 3:9, **2020**. [[DOI]](https://doi.org/10.28933/esciences-2020-01-1805)
+1. **Tianlong Wang**, Xiaorui Tao, Jiamei Zhang, Yulei Li. Predicting Traffic Congestion Time Based on Kalman Filter Algorithm. *Advances in Research and Reviews*, 1:7, **2020**. [[DOI]](https://doi.org/10.28933/arr-2020-06-2205)
 
 ## **Conference Papers**
 1. **Tianlong Wang**, J. Wang, X. Shao. Carbon emission forecast of China Transport Industry Based on Grey - Markov. *In Proceedings of the International Conference on Computing and Big Data (ICCBD)*, **2021**. [[DOI]](https://doi.org/10.1109/ICCBD53833.2021.00192)
@@ -89,13 +94,14 @@ You can find my research profile and real-time citation count on <a href='https:
 - *2020.07* **Third Prize**, The 5th National Construction College Construction Technology Application Skills Competition (Hubei), China.
 
 # **⭐ Honors** <span class='anchor' id='honors'></span>
-- *2023.12* China Harbour Engineering Company (CHEC) Scholarship (Top 2%), China.
-- *2022.11* **<span style="color: red;">Outstanding Graduate</span>**, City Underground Space Engineering Professional Committee, CSRME (Top 100), China.
-- *2022.06* Yunneng Electric Power Innovation Scholarship (Top 2%), China.
-- *2021.12* **National Scholarship**, China (Top 1%), China.
-- *2020.12* Wang Shuopeng Scholarship (Top 2%), China.
-- *2019 - 2022* First-Class Academic Scholarship, University Level (Top 5%, *Four consecutive years*), China.
-- *2019 - 2021* National Encouragement Scholarship (Top 5%, *Three consecutive years*), China.
+- *2023.12* China Harbour Engineering Company (CHEC) Scholarship (Top 2%), China. (National)
+- *2022.11* **<span style="color: red;">Outstanding Graduate (Top 100)</span>**, City Underground Space Engineering Professional Committee, CSRME, China. (National)
+- *2022.06* **Outstanding Graduate**, Zhejiang University, China. (School)
+- *2022.04* **Yunneng Electric Power Innovation Scholarship**, China. (Enterprise-funded)
+- *2021.12* **National Scholarship**, China (Top 1%), China. (National)
+- *2020.12* **Wang Shuopeng Scholarship** (Top 2%), China. (National)
+- *2019 - 2022* First-Class Academic Scholarship, University Level (Top 5%, *Four consecutive years*), China. (School)
+- *2019 - 2021* National Encouragement Scholarship (Top 5%, *Three consecutive years*), China. (National)
 
 # **🧩 Misc** <span class='anchor' id='misc'></span>
 - *2023.07 - 2023.09*, **Intern**, China International Science and Technology Exchange Center, China Association for Science and Technology (CAST), Beijing, China.
