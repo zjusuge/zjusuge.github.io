@@ -28,11 +28,11 @@ Specifically, I focus on leveraging machine learning and deep learning framework
 You can find my research profile and real-time citation count on <a href='https://scholar.google.com/citations?user=JNiHto0AAAAJ'>Google Scholar <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # **🔥 News** <span class='anchor' id='news'></span>
-- *2025.11*: 🎉🎉 Awarded the Silver Award in the China International College Students' Innovation Competition Singapore Regional, Singapore.
-- *2025.07*: 🚀 Selected for the Outstanding Doctoral Dissertation Award cultivation program at Zhejiang University, China.
-- *2025.02*: ✍️ Published my debut poetry collection *"Suganniran"*, China.
-- *2024.12*: 🎓 Awarded the Young Science and Technology Scientists Sponsorship Program by CAST (Doctoral Student Special Plan).
-- *2024.09*: 🛫 Started my joint PhD training at Nanyang Technological University (NTU), Singapore.
+- *2025.11*: 🎉🎉 Awarded the Silver Award in the China International College Students' Innovation Competition Singapore Regional in Singapore.
+- *2025.07*: 🚀 Selected for the Outstanding Doctoral Dissertation Award cultivation program at Zhejiang University in China.
+- *2025.02*: ✍️ Published my debut poetry collection *"Suganniran"* in China.
+- *2024.12*: 🎓 Awarded the Young Science and Technology Scientists Sponsorship Program by CAST (Doctoral Student Special Plan) in China.
+- *2024.09*: 🛫 Started my joint PhD training at Nanyang Technological University (NTU) in Singapore.
 
 # **📖 Education** <span class='anchor' id='education'></span>
 - *2024.09 - 2026.09*, Joint PhD Student, **Nanyang Technological University (NTU)**, Singapore.  
@@ -94,7 +94,7 @@ Using \* to ensure asterisks don't trigger italic formatting.
 - *2020.07* **Third Prize**, The 5th National Construction College Construction Technology Application Skills Competition (Hubei), China.
 
 # **⭐ Honors** <span class='anchor' id='honors'></span>
-- *2023.12* China Harbour Engineering Company (CHEC) Scholarship (Top 2%), China. (National)
+- *2023.12* China Harbour Engineering Company (CHEC) Scholarship (Top 2%), China. (Enterprise-funded)
 - *2022.11* **<span style="color: red;">Outstanding Graduate (Top 100)</span>**, City Underground Space Engineering Professional Committee, CSRME, China. (National)
 - *2022.06* **Outstanding Graduate**, Zhejiang University, China. (School)
 - *2022.04* **Yunneng Electric Power Innovation Scholarship**, China. (Enterprise-funded)
