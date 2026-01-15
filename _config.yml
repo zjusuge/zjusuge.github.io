@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Tianlong Wang"
-description              : "Tianlong Wang is a PhD student at Zhejiang University and Nanyang Technological University. His research focuses on AI applications in geohazards mitigation, including landslides and debris flows."
+description              : 
 repository               : "zjusuge/Tianlong-Wang.github.io"
 baseurl: "/Tianlong-Wang.github.io"
 url: "https://zjusuge.github.io"
