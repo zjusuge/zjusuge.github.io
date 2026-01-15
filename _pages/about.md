@@ -94,7 +94,7 @@ Using \* to ensure asterisks don't trigger italic formatting.
 - *2020.07* **Third Prize**, The 5th National Construction College Construction Technology Application Skills Competition (Hubei), China.
 
 # **⭐ Honors** <span class='anchor' id='honors'></span>
-- *2024.09* **<span style="color: red;">Chinese Government Scholarship</span>**, China Scholarship Council (CSC), China. (National)
+- *2024.09* **Chinese Government Scholarship**, China Scholarship Council (CSC), China. (National)
 - *2023.12* China Harbour Engineering Company (CHEC) Scholarship (Top 2%), China. (Enterprise-funded)
 - *2022.11* **<span style="color: red;">Outstanding Graduate (Top 100)</span>**, City Underground Space Engineering Professional Committee, CSRME, China. (National)
 - *2022.06* **Outstanding Graduate**(Top 5%), Zhejiang University, China. (School)
