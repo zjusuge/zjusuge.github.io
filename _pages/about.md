@@ -49,20 +49,18 @@ You can find my research profile and real-time citation count on <a href='https:
 # **📝 Publications** <span class='anchor' id='publications'></span>
 
 
-## **Journal Articles**
+## **Journal Articles(First/Corresponding Author)**
 {% comment %} 
 Using \* to ensure asterisks don't trigger italic formatting.
 {% endcomment %}
 1. **Tianlong Wang**, H. Yang, H. Sun\*. Intelligent Prediction of Post-Seismic Debris Flow Source Volumes: A Physics-Informed Generative Deep Learning Framework. *Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards*, **2026**. (JCR Q1) [[DOI]](https://doi.org/10.1080/17499518.2026.2651228)
 1. K. Zhang, **Tianlong Wang**\*, J. Su, H. Sun. Impacts of land use change on hydrological processes based on SWAT-ML-SHAP model: A case study of Fenshuijiang Watershed, China. *Earth Science*, **2025**. (Corresponding Author, EI/CSCD) [[DOI]](https://doi.org/10.3799/dqkx.2025.290)
-1. B. Lu, Y. Yu\*, S. Liu, **Tianlong Wang**, Z. Xu. Multi-parameter calibration method and application of constitutive model based on improved dung beetle optimization algorithm. *Journal of Disaster Prevention and Mitigation Engineering*, **2025**. (CSCD/Core Journal) [[DOI]](https://doi.org/10.13409/j.cnki.jdpme.20250224001)
 1. H. Yang, **Tianlong Wang**\*, N.I. Fomin, S. Xiao, L. Liu. An integrated IKOA-CNN-BiGRU-Attention framework with SHAP explainability for high-precision debris flow hazard prediction in the Nujiang river basin, China. *PLoS One*, 20(6): e0326587, **2025**. (Corresponding Author, JCR Q2) [[DOI]](https://doi.org/10.1371/journal.pone.0326587)
 1. **Tianlong Wang**, Q. Ge, T. Ma, et al. A novel method for predicting debris flow hazard: a multi-strategy fusion approach based on the light gradient boosting machine framework. *Stochastic Environmental Research and Risk Assessment*, **2025**. (JCR Q1) [[DOI]](https://doi.org/10.1007/s00477-025-02955-9)
 1. **Tianlong Wang**, K. Zhang, Z. Liu, T. Ma, R. Luo, H. Chen, X. Wang, W. Ge, H. Sun\*. Prediction and explanation of debris flow velocity based on multi-strategy fusion Stacking ensemble learning model. *Journal of Hydrology*, 638, 131347, **2024**. (JCR Q1) [[DOI]](https://doi.org/10.1016/j.jhydrol.2024.131347)
 1. **Tianlong Wang**, R. Luo, T. Ma, et al. Study and verification on an improved comprehensive prediction model of landslide displacement. *Bulletin of Engineering Geology and the Environment*, 83, 90, **2024**. (JCR Q1) [[DOI]](https://doi.org/10.1007/s10064-024-03581-5)
 1. Z. Chu, S. Yu, X. Li, X. Lu, X. Wang, R. Luo, **Tianlong Wang**\*. Laboratory model test on the treatment of engineering slurry by vacuum drainage method. *Journal of Yangtze River Scientific Research Institute*, 41(9): 114-122, **2024**. (Corresponding Author, CSCD/Core Journal) [[DOI]](https://doi.org/10.11988/ckyyb.20230665)
 1. **Tianlong Wang**, D. Peng, X. Wang, B. Wu, R. Luo, Z. Chu, H. Sun\*. Study on wavelet multi-scale analysis and prediction of landslide groundwater. *Journal of Hydroinformatics*, 26(1), 237–254, **2024**. (JCR Q2) [[DOI]](https://doi.org/10.2166/hydro.2023.299)
-1. X. Xu, X. Lei\*, **Tianlong Wang**, G. Kong, C. Li. Experimental study on shear mechanical properties of pile-coral sand interface. *Chinese Journal of Underground Space and Engineering*, 18(6): 1563-1571, **2022**. (CSCD/Core Journal) [[DOI]](https://doi.org/10.3969/j.issn.1673-0836.2022.06.012)
 1. **Tianlong Wang**, Xiaorui Tao, Dong-kun Wu, Haotian Feng. Determining the location of River Dam Group based on set cover Model: A case study of Zambezi River Basin. *Scientific Research and Reviews*, 14:122, **2021**. [[DOI]](https://doi.org/10.28933/srr-2021-03-1005)
 1. **Tianlong Wang**, H. Zhang, X. Tao, W. Chu. Research on Prediction and Optimization of Slope Deformation in Mining Area. *Environment, Resource and Ecology Journal*, 4:66-69, **2020**. (JCR Q4) [[DOI]](https://doi.org/10.23977/erej.2020.040110)
 1. **Tianlong Wang**, Hongyan Bao, Hairui Zhang. Optimization of Task Pricing Based on Multiple Regression Analysis and Game Theory. *Journal of eSciences*, 3:9, **2020**. [[DOI]](https://doi.org/10.28933/esciences-2020-01-1805)
