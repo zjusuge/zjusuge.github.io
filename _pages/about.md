@@ -49,7 +49,7 @@ You can find my research profile and real-time citation count on <a href='https:
 # **📝 Publications** <span class='anchor' id='publications'></span>
 
 
-## **Journal Articles(First/Corresponding Author)**
+## **Journal Articles (First/Corresponding Author)**
 {% comment %} 
 Using \* to ensure asterisks don't trigger italic formatting.
 {% endcomment %}
@@ -62,7 +62,7 @@ Using \* to ensure asterisks don't trigger italic formatting.
 1. Z. Chu, S. Yu, X. Li, X. Lu, X. Wang, R. Luo, **Tianlong Wang**\*. Laboratory model test on the treatment of engineering slurry by vacuum drainage method. *Journal of Yangtze River Scientific Research Institute*, 41(9): 114-122, **2024**. (Corresponding Author, CSCD/Core Journal) [[DOI]](https://doi.org/10.11988/ckyyb.20230665)
 1. **Tianlong Wang**, D. Peng, X. Wang, B. Wu, R. Luo, Z. Chu, H. Sun\*. Study on wavelet multi-scale analysis and prediction of landslide groundwater. *Journal of Hydroinformatics*, 26(1), 237–254, **2024**. (JCR Q2) [[DOI]](https://doi.org/10.2166/hydro.2023.299)
 1. **Tianlong Wang**, Xiaorui Tao, Dong-kun Wu, Haotian Feng. Determining the location of River Dam Group based on set cover Model: A case study of Zambezi River Basin. *Scientific Research and Reviews*, 14:122, **2021**. [[DOI]](https://doi.org/10.28933/srr-2021-03-1005)
-1. **Tianlong Wang**, H. Zhang, X. Tao, W. Chu. Research on Prediction and Optimization of Slope Deformation in Mining Area. *Environment, Resource and Ecology Journal*, 4:66-69, **2020**. (JCR Q4) [[DOI]](https://doi.org/10.23977/erej.2020.040110)
+1. **Tianlong Wang**, H. Zhang, X. Tao, W. Chu. Research on Prediction and Optimization of Slope Deformation in Mining Area. *Environment, Resource and Ecology Journal*, 4:66-69, **2020**.[[DOI]](https://doi.org/10.23977/erej.2020.040110)
 1. **Tianlong Wang**, Hongyan Bao, Hairui Zhang. Optimization of Task Pricing Based on Multiple Regression Analysis and Game Theory. *Journal of eSciences*, 3:9, **2020**. [[DOI]](https://doi.org/10.28933/esciences-2020-01-1805)
 1. **Tianlong Wang**, Xiaorui Tao, Jiamei Zhang, Yulei Li. Predicting Traffic Congestion Time Based on Kalman Filter Algorithm. *Advances in Research and Reviews*, 1:7, **2020**. [[DOI]](https://doi.org/10.28933/arr-2020-06-2205)
 
