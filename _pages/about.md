@@ -53,7 +53,7 @@ You can find my research profile and real-time citation count on <a href='https:
 {% comment %} 
 Using \* to ensure asterisks don't trigger italic formatting.
 {% endcomment %}
-1. **Tianlong Wang**, H. Yang, H. Sun\*. Intelligent Prediction of Post-Seismic Debris Flow Source Volumes: A Physics-Informed Generative Deep Learning Framework. *Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards*, **2026**. (JCR Q1) [[DOI]](https://doi.org/10.1080/17499518.2026.2651228)
+1. **Tianlong Wang**, H. Yang, H. Sun\*. Intelligent Prediction of Post-Seismic Debris Flow Source Volumes: A Physics-Informed Generative Deep Learning Framework. *Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards*, 1–29. **2026**. (JCR Q1) [[DOI]](https://doi.org/10.1080/17499518.2026.2651228)
 1. K. Zhang, **Tianlong Wang**\*, J. Su, H. Sun. Impacts of land use change on hydrological processes based on SWAT-ML-SHAP model: A case study of Fenshuijiang Watershed, China. *Earth Science*, **2025**. (Corresponding Author, EI/CSCD) [[DOI]](https://doi.org/10.3799/dqkx.2025.290)
 1. H. Yang, **Tianlong Wang**\*, N.I. Fomin, S. Xiao, L. Liu. An integrated IKOA-CNN-BiGRU-Attention framework with SHAP explainability for high-precision debris flow hazard prediction in the Nujiang river basin, China. *PLoS One*, 20(6): e0326587, **2025**. (Corresponding Author, JCR Q2) [[DOI]](https://doi.org/10.1371/journal.pone.0326587)
 1. **Tianlong Wang**, Q. Ge, T. Ma, et al. A novel method for predicting debris flow hazard: a multi-strategy fusion approach based on the light gradient boosting machine framework. *Stochastic Environmental Research and Risk Assessment*, **2025**. (JCR Q1) [[DOI]](https://doi.org/10.1007/s00477-025-02955-9)
