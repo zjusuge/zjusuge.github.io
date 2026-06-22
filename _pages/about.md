@@ -41,10 +41,13 @@ You can find my research profile and real-time citation count on <a href='https:
   - Mentor: [Prof. Hongyue Sun](https://person.zju.edu.cn/0096428)
 
 # **🔍 Research Grants** <span class='anchor' id='research-grants'></span>
-- **The Seed Fund Cultivation Project of Ocean College, Zhejiang University**, Grant No. 2025BS004, "Research on Intelligent Debris Flow Forecasting Methods for Small Watersheds Based on Multi-scale Hydrodynamic Coupling Mechanisms", **2025.06 - 2027.06**, China.
-- **<span style="color: red;">Outstanding Doctoral Dissertation Fund</span>**, Zhejiang University, Grant No. 825011A, **2025.07 - 2026.07**, China.
-- **<span style="color: red;">Young Science and Technology Scientists Sponsorship Program by CAST</span>**, Grant No. 156-O-170-0000603-2, "Spatiotemporal Dynamic Forecasting and Interpretive Analysis System for Debris Flows in Small Watersheds", **2025.01 - 2026.12**, China.
-- **China Scholarship Council (CSC) Grant**, Grant No. 202406320358, "Research on Early Spatiotemporal Prediction of Debris Flows and Disaster Control in Small Watersheds", **2024.09 - 2026.09**, China.
+
+- **Key Program of NSFC**, National Natural Science Foundation of China, Grant No. 42230702, "Early Forecasting and Disaster Control Methods for Debris Flows in Small Watersheds Based on Hydrodynamic Analysis", **2023.01 - 2027.12**, 2,730,000 RMB, In Progress, Co-Investigator.
+- **Young Scientists Fund of NSFC**, National Natural Science Foundation of China, Grant No. 51809151, "Research on Deformation Prediction Models and Instability Criterion Methods for Reservoir Bank Slopes Based on Copula Theory", **2019.01 - 2021.12**, 250,000 RMB, Completed, Co-Investigator.
+- **<span style="color: red;">Young Elite Scientists Sponsorship Program (Doctoral Student Special Plan)</span>**, China Association for Science and Technology (CAST), Project ID: 156-O-170-0000603-2, "Spatiotemporal Dynamic Forecasting and Interpretive Analysis System for Debris Flows in Small Watersheds", **2025.01 - 2026.12**, 40,000 RMB, In Progress, Principal Investigator.
+- **<span style="color: red;">National Construction of High-Level Universities Program</span>**, China Scholarship Council (CSC), Grant No. 202406320358, "Research on Early Spatiotemporal Prediction of Debris Flows and Disaster Control in Small Watersheds", **2024.09 - 2026.09**, 300,000 RMB, In Progress, Recipient.
+- **<span style="color: red;">Outstanding Doctoral Dissertation Award Cultivation Grant</span>**, Zhejiang University, Grant No. 825011A, "Spatiotemporal Dynamic Forecasting and Interpretive Analysis System for Debris Flows in Small Watersheds", **2025.06 - 2026.06**, 36,000 RMB, Completed (Evaluated as Excellent), Principal Investigator.
+- **The Seed Fund Cultivation Project of Ocean College**, Zhejiang University, Grant No. 2025BS004, "Research on Intelligent Debris Flow Forecasting Methods for Small Watersheds Based on Multi-scale Hydrodynamic Coupling Mechanisms", **2025.06 - 2027.06**, 50,000 RMB, In Progress, Principal Investigator.
 
 # **📝 Publications** <span class='anchor' id='publications'></span>
 
