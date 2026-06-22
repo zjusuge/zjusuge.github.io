@@ -41,10 +41,10 @@ You can find my research profile and real-time citation count on <a href='https:
   - Mentor: [Prof. Hongyue Sun](https://person.zju.edu.cn/0096428)
 
 # **🔍 Research Grants** <span class='anchor' id='research-grants'></span>
-- **The Seed Fund Cultivation Project of Ocean College, Zhejiang University**, No. 2025BS004, "Research on Intelligent Debris Flow Forecasting Methods for Small Watersheds Based on Multi-scale Hydrodynamic Coupling Mechanisms", **2025.06 - 2027.06**, China.
-- **<span style="color: red;">Outstanding Doctoral Dissertation Fund</span>**, Zhejiang University, No. 12234058, **2025.07 - 2026.07**, China.
-- **<span style="color: red;">Young Science and Technology Scientists Sponsorship Program by CAST</span>**, No. 156-O-170-0000603-2, "Spatiotemporal Dynamic Forecasting and Interpretive Analysis System for Debris Flows in Small Watersheds", **2025.01 - 2026.12**, China.
-- **China Scholarship Council (CSC) Grant**, No. 202406320358, "Research on Early Spatiotemporal Prediction of Debris Flows and Disaster Control in Small Watersheds", **2024.09 - 2026.09**, China.
+- **The Seed Fund Cultivation Project of Ocean College, Zhejiang University**, Grant No. 2025BS004, "Research on Intelligent Debris Flow Forecasting Methods for Small Watersheds Based on Multi-scale Hydrodynamic Coupling Mechanisms", **2025.06 - 2027.06**, China.
+- **<span style="color: red;">Outstanding Doctoral Dissertation Fund</span>**, Zhejiang University, Grant No. 825011A, **2025.07 - 2026.07**, China.
+- **<span style="color: red;">Young Science and Technology Scientists Sponsorship Program by CAST</span>**, Grant No. 156-O-170-0000603-2, "Spatiotemporal Dynamic Forecasting and Interpretive Analysis System for Debris Flows in Small Watersheds", **2025.01 - 2026.12**, China.
+- **China Scholarship Council (CSC) Grant**, Grant No. 202406320358, "Research on Early Spatiotemporal Prediction of Debris Flows and Disaster Control in Small Watersheds", **2024.09 - 2026.09**, China.
 
 # **📝 Publications** <span class='anchor' id='publications'></span>
 
