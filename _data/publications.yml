@@ -132,6 +132,16 @@
   - label: DOI
     url: https://doi.org/10.1007/s11629-023-7969-x
   authors: H. Sun, X. Wang, Y. Yu*, J. Shu, Tianlong Wang, R. Luo, Z. Chu
+- id: paper-grouting-fractures
+  year: 2022
+  title: Experimental Study on Grouting and Flow Characteristics of Rough Vertical Fractures
+  venue: Geofluids, 2022, Article 3165524, 15 pages.
+  type: Journal article
+  topic: Geotechnics
+  links:
+  - label: DOI
+    url: https://doi.org/10.1155/2022/3165524
+  authors: Zheng Li, Jie Liu*, Qian Shi, Kun Mao, Zhao Li, Hongyu Tang, Tianlong Wang
 - id: paper-coral-sand
   year: 2022
   title: Experimental Research on Shear Mechanical Characteristics of Pile-Coral Sand Interface
