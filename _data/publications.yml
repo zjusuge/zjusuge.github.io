@@ -63,13 +63,13 @@
   year: 2025
   title: 3D Numerical Simulation of the Shortest Length of a Blocking Section for a Self-Starting Drainage
     Method
-  venue: International Journal of Geomechanics
+  venue: International Journal of Geomechanics, 25(10), 04025209.
   type: Journal article
   topic: Geotechnics
   links:
   - label: DOI
     url: https://doi.org/10.1061/IJGNAI.GMENG-10939
-  authors: X. Wang, Q. Ge, K. Zhang, Tianlong Wang, T. Ma, H. Sun
+  authors: X. Wang, Q. Ge, K. Zhang, Tianlong Wang, T. Ma, H. Sun*
 - id: paper-calibration
   year: 2025
   title: Multi-parameter Calibration Method and Application of Constitutive Model Based on Improved Dung
