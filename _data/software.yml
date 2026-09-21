@@ -1,7 +1,7 @@
 - name: DOME
   category: Geohazard assessment
-  description: An ensemble framework for debris-flow susceptibility, linking model optimization with
-    SHAP interpretation.
+  description: Regional debris-flow susceptibility assessment combining dynamic learner selection,
+    metaheuristic optimization, stacked ensembles and SHAP interpretation.
   tags:
   - Ensemble learning
   - Interpretation
@@ -14,16 +14,38 @@
     url: https://doi.org/10.5281/zenodo.16911533
 - name: TabPFNv2.5-DebrisFlow
   category: Small-sample prediction
-  description: A debris-flow volume benchmark comparing TabPFN-2.5 with machine-learning baselines.
+  description: Small-sample debris-flow volume prediction with TabPFN-2.5, sediment-source information,
+    machine-learning comparisons and regional holdout evaluation.
   tags:
   - Tabular learning
   - Benchmarking
   links:
   - label: Repository
     url: https://github.com/zjusuge/TabPFNv2.5-DebrisFlow
+- name: RSRL-HU
+  category: Landslide forecasting
+  description: One-day-ahead landslide velocity forecasting combining robust motion-state estimation,
+    groundwater forecasts, hydrology-informed residual learning and sequential prediction intervals.
+  tags:
+  - Hydrology-informed learning
+  - Uncertainty quantification
+  links:
+  - label: Repository
+    url: https://github.com/zjusuge/RSRL-HU
+- name: Hydrological Readiness Forecasting
+  category: Early-warning support
+  description: Calibrated probabilities of warning-relevant hydrological states over the next three days
+    in small catchments, with chronological evaluation and optional SHAP attribution.
+  tags:
+  - Probabilistic forecasting
+  - Hydrological states
+  links:
+  - label: Repository
+    url: https://github.com/zjusuge/hydrological-readiness-forecasting
 - name: BWSD
   category: Catchment hydrology
-  description: Fengshuwan case-study code for calculating daily Basin Water Storage Degree.
+  description: Daily Basin Water Storage Degree calculation and hydrological-state classification
+    from the Fengshuwan catchment water balance.
   tags:
   - Water storage
   - Case study
@@ -32,10 +54,11 @@
     url: https://github.com/zjusuge/bwsd-fengshuwan-case
 - name: HydroPIML-RS
   category: Hydrological prediction
-  description: Fengshuwan case-study code for short-lead runoff and water-stage prediction.
+  description: Physics-informed residual stacking for short-lead runoff and water-stage forecasting,
+    with prediction replay and documented revision evidence for the Fengshuwan catchment.
   tags:
-  - Runoff
-  - Water stage
+  - Physics-informed learning
+  - Runoff and water stage
   links:
   - label: Repository
     url: https://github.com/zjusuge/hydropiml-rs-fengshuwan-case
