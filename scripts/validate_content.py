@@ -26,6 +26,16 @@ for paper in data['publications']:
             urls.add(link['url'].lower())
 for work in data['home']['selected']:
     require(work['paper_id'] in ids,f'Unknown selected paper: {work["paper_id"]}')
+manuscript_ids=set()
+for manuscript in data['manuscripts']:
+    for key in ['id','title','authors','venue','status','status_as_of','code']:
+        require(bool(manuscript.get(key)),f'Missing manuscript field: {key}')
+    require(manuscript['id'] not in ids | manuscript_ids,'Duplicate manuscript/publication id')
+    manuscript_ids.add(manuscript['id'])
+    require(manuscript['status'] in ['Under review','Under review following revision'],'Invalid review status')
+    require(re.fullmatch(r'\d{4}-\d{2}-\d{2}',str(manuscript['status_as_of'])),'Use ISO date for review status')
+    require(manuscript['code'].startswith('https://github.com/'),'Invalid manuscript code link')
+    require(manuscript['title'].casefold() not in {p['title'].casefold() for p in data['publications']},'Manuscript duplicated in published work')
 for grant in data['funding']:
     require(grant['category'] in ['individual','collaborative'],'Invalid funding category')
     for key in ['title','period','funder','role','project','details']:require(bool(grant.get(key)),f'Missing grant field: {key}')
@@ -85,4 +95,4 @@ if len(sys.argv)>1:
                 path=build/unquote(urlparse(href).path).lstrip('/')
                 if urlparse(href).path.endswith('/'):path=path/'index.html'
                 require(path.exists(),f'Missing asset/page: {href}')
-print(f'PASS: {len(ids)} publications, {len(data["funding"])} grants, {len(data["software"])} software projects; selected references valid.')
+print(f'PASS: {len(ids)} publications, {len(manuscript_ids)} manuscripts, {len(data["funding"])} grants, {len(data["software"])} software projects; selected references valid.')

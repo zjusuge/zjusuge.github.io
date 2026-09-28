@@ -1,0 +1,10 @@
+<ol class="manuscript-list publications">
+{% for paper in site.data.manuscripts %}
+  <li id="{{ paper.id | escape }}">
+    <strong>{{ paper.title | escape }}</strong>
+    <p class="authors">{{ paper.authors | escape | replace: 'Tianlong Wang', '<strong>Tianlong Wang</strong>' | replace: '*', '<sup>*</sup>' }}</p>
+    <p><span class="manuscript-status">{{ paper.status | escape }}</span> · {{ paper.venue | escape }}</p>
+    <p class="pub-links"><a href="{{ paper.code | escape }}">Research code ↗</a></p>
+  </li>
+{% endfor %}
+</ol>

@@ -3,20 +3,22 @@ hero:
   headline: Understanding processes.
   subheadline: Advancing geohazard prediction.
   intro_before: I develop
-  intro_focus: AI methods for spatiotemporal forecasting of geohazards
-  intro_after: ', especially debris flows and landslides. My work connects physics-informed machine learning
-    (PIML), explainable AI (XAI) and hydrological theory with monitoring and mitigation.'
+  intro_focus: physics-informed and explainable prediction methods
+  intro_after: ' for hydrological processes and geohazards, especially debris flows
+    and landslides. My research connects catchment storage and hydrological memory
+    with short-lead forecasting, monitoring and mitigation.'
 research:
   title: Forecasting at the intersection of physics and AI.
-  intro: 'Prediction is the thread running through my work: from hydrological and groundwater response
-    to debris-flow dynamics, landslide motion and hazard assessment.'
+  intro: 'Prediction is the thread running through my work: from hydrological and
+    groundwater response to debris-flow dynamics, landslide motion and hazard assessment.'
   topics:
   - letter: '01'
     color: blue
     category: Observe & understand
     title: What makes a catchment ready to respond?
-    description: I use catchment and slope monitoring to study hydrological memory, rainfall–groundwater
-      coupling and storage-state indicators that inform geohazard forecasting.
+    description: I use catchment and slope monitoring to study hydrological memory,
+      rainfall–groundwater coupling and storage-state indicators that inform geohazard
+      forecasting.
     methods:
     - Field monitoring
     - Hydrological memory
@@ -27,8 +29,9 @@ research:
     color: teal
     category: Forecast & explain
     title: How can physics improve predictions?
-    description: I develop PIML, XAI, ensemble learning and optimization methods for spatial hazard assessment
-      and temporal forecasts of flow, water levels and slope movement.
+    description: I develop PIML, XAI, ensemble learning and optimization methods for
+      spatial hazard assessment and temporal forecasts of flow, water levels and slope
+      movement.
     methods:
     - PIML & XAI
     - Algorithm development
@@ -39,8 +42,8 @@ research:
     color: clay
     category: Assess & mitigate
     title: How can predictions inform intervention?
-    description: Collaborative work on siphon drainage, slope stabilization and geotechnical modelling
-      connects hydrological understanding with practical hazard mitigation.
+    description: Collaborative work on siphon drainage, slope stabilization and geotechnical
+      modelling connects hydrological understanding with practical hazard mitigation.
     methods:
     - Siphon drainage
     - Slope stabilization
@@ -52,53 +55,55 @@ selected:
   number: '01'
   category: Physics-informed learning
   title: Learning from limited debris-flow inventories.
-  summary: GAMMA combines conditional diffusion, multimodal learning and a physics-guided regularizer
-    to estimate post-seismic debris-flow source volumes.
+  summary: GAMMA combines conditional diffusion, multimodal learning and a physics-guided
+    regularizer to estimate post-seismic debris-flow source volumes.
   venue: Georisk · 2026
   detail: Physical constraints + generative learning
   figure: /images/research/gamma-physics.jpeg
   figure_caption: Physics-guided constraint embedding · Fig. 5
-  figure_alt: Physics-guided regularization linking learned source-volume estimates and physical constraints.
+  figure_alt: Physics-guided regularization linking learned source-volume estimates
+    and physical constraints.
 - paper_id: paper-velocity
   number: '02'
   category: Debris-flow dynamics
   title: Predicting velocity. Explaining the drivers.
-  summary: A multi-strategy stacking model estimates debris-flow velocity at Jiangjiagou, with SHAP analysis
-    of feature contributions and interactions.
+  summary: A multi-strategy stacking model estimates debris-flow velocity at Jiangjiagou,
+    with SHAP analysis of feature contributions and interactions.
   venue: Journal of Hydrology · 2024
   detail: Ensemble prediction + model interpretation
   figure: /images/research/velocity-prediction.png
   figure_caption: Debris-flow velocity prediction · Fig. 10
-  figure_alt: Published observed and predicted debris-flow velocities, including the labelled training
-    and test partitions.
+  figure_alt: Published observed and predicted debris-flow velocities, including the
+    labelled training and test partitions.
 - paper_id: paper-dome
   number: '03'
   category: Regional susceptibility
   title: Mapping where attention is needed.
-  summary: DOME combines dynamic ensemble selection, calibration and spatial evaluation for debris-flow
-    susceptibility assessment along a mountain transport corridor.
+  summary: DOME combines dynamic ensemble selection, calibration and spatial evaluation
+    for debris-flow susceptibility assessment along a mountain transport corridor.
   venue: Natural Hazards · 2026
   detail: Spatial assessment + open research code
   figure: /images/research/dome-workflow.png
   figure_caption: DOME computational workflow · Fig. 1
-  figure_alt: DOME workflow showing learner selection, ensemble construction, calibration and evaluation.
+  figure_alt: DOME workflow showing learner selection, ensemble construction, calibration
+    and evaluation.
 ongoing:
 - title: Hydrological readiness & catchment storage
-  description: Developing Basin Water Storage Degree (BWSD) and readiness forecasts from rainfall, drainage
-    and monitored catchment conditions.
-  boundary: Warning-support research; event-detection skill requires validation on debris-flow events
-    and independent catchments.
+  description: Developing Basin Water Storage Degree (BWSD) and readiness forecasts
+    from rainfall, drainage and monitored catchment conditions.
+  boundary: Warning-support research; event-detection skill requires validation on
+    debris-flow events and independent catchments.
   link: https://github.com/zjusuge/bwsd-fengshuwan-case
   link_label: BWSD case-study code
 - title: Physics-guided runoff & stage forecasting
-  description: HydroPIML-RS combines hydrological memory, residual learning and physical consistency constraints
-    for short-lead outlet forecasts.
+  description: HydroPIML-RS combines hydrological memory, residual learning and physical
+    consistency constraints for short-lead outlet forecasts.
   boundary: ''
   link: https://github.com/zjusuge/hydropiml-rs-fengshuwan-case
   link_label: HydroPIML-RS code
 - title: Prediction with sparse observations
-  description: Exploring tabular foundation models for debris-flow volume and hydrology-informed residual
-    learning for landslide velocity, with prediction intervals.
+  description: Exploring tabular foundation models for debris-flow volume and hydrology-informed
+    residual learning for landslide velocity, with prediction intervals.
   boundary: ''
   link: https://github.com/zjusuge/TabPFNv2.5-DebrisFlow
   link_label: Volume benchmark code

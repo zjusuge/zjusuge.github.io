@@ -2017,3 +2017,6 @@ summary:focus-visible {
     widows: 3;
   }
 }
+
+/* Shared manuscript records: compact on the homepage, complete in the CV. */
+.manuscript-details{margin-top:2rem;border-top:1px solid #cddbd4;padding-top:1.25rem}.manuscript-details summary{cursor:pointer;font-weight:600;color:#26665f;padding:.5rem 0}.manuscript-details summary:focus-visible{outline:2px solid #26665f;outline-offset:4px}.manuscript-details .manuscript-list{padding-left:1.4rem;margin-top:1.5rem}.manuscript-details li{margin-bottom:1.5rem;line-height:1.6}.manuscript-details p{margin:.25rem 0}.manuscript-details .authors,.manuscript-details .pub-links,.manuscript-details .section-note{font-size:.875rem}.manuscript-status{font-weight:600;color:#26665f}

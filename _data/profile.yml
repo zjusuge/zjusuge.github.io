@@ -1,11 +1,19 @@
 name: Tianlong Wang
 name_zh: 王天龙
 role: PhD Student · Zhejiang University
-training: Joint doctoral research training · Nanyang Technological University
+training: Joint doctoral research training · NTU · 2024–2026
 email: tianlong_wang@zju.edu.cn
 seeking_postdoc: true
 graduation: June 2027
 opportunity_title: Seeking international postdoctoral opportunities
-opportunity_text: I am actively seeking an international postdoctoral position after my expected PhD completion
-  in June 2027.
+opportunity_text: I am seeking a postdoctoral position from July 2027, following my
+  expected PhD completion in June 2027. I am interested in hydrological and geohazard
+  prediction, physics-informed learning and interpretable AI, and welcome related
+  interdisciplinary research opportunities.
 contact_subject: Postdoctoral opportunity · 2027 · Tianlong Wang
+research_profile: I develop physics-informed and explainable machine-learning methods
+  for hydrological and geohazard prediction. My research connects catchment storage
+  and hydrological memory with short-lead runoff, water-stage and landslide forecasting,
+  with an emphasis on sparse observations, physical consistency and uncertainty.
+available_from: July 2027
+cv_updated: 28 September 2026

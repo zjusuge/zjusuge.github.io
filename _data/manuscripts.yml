@@ -1,0 +1,35 @@
+- id: manuscript-hydropiml
+  title: 'Physics-guided residual stacking for short-lead runoff and stage forecasting in the Fengshuwan catchment, China'
+  authors: 'Tianlong Wang, Jian Chu, Hao Yang, Hongyue Sun*'
+  venue: 'Journal of Hydrology: Regional Studies'
+  status: Under review following revision
+  status_as_of: '2026-09-14'
+  code: https://github.com/zjusuge/hydropiml-rs-fengshuwan-case
+- id: manuscript-bwsd
+  title: 'Basin Water Storage Degree for Risk-Informed Debris-Flow Warning Support: A Forward-Looking Proof of Concept in a Small Mountain Catchment'
+  authors: 'Tianlong Wang, Jian Chu, Hao Yang, Hongyue Sun*'
+  venue: International Journal of Disaster Risk Reduction
+  status: Under review following revision
+  status_as_of: '2026-08-03'
+  code: https://github.com/zjusuge/bwsd-fengshuwan-case
+- id: manuscript-readiness
+  title: 'Hydrological readiness forecasting for debris flow early warning in a mountain catchment with sparse event records'
+  authors: 'Tianlong Wang, Jian Chu, Jingkun Su, Runting Fan, Hao Yang, Hongyue Sun*'
+  venue: Bulletin of Engineering Geology and the Environment
+  status: Under review
+  status_as_of: '2026-07-27'
+  code: https://github.com/zjusuge/hydrological-readiness-forecasting
+- id: manuscript-rsrl
+  title: 'Robust state estimation and hydrology-informed residual learning for landslide velocity forecasting with prequential prediction intervals'
+  authors: 'Tianlong Wang, Jian Chu, Hao Yang, Hongyue Sun*'
+  venue: 'Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards'
+  status: Under review
+  status_as_of: '2026-08-23'
+  code: https://github.com/zjusuge/RSRL-HU
+- id: manuscript-tabpfn
+  title: 'Sediment-source information improves small-sample prediction of maximum recorded debris-flow volume with a pretrained tabular model'
+  authors: 'Tianlong Wang, Jian Chu, Yanhui Li, Hao Yang, Hongyue Sun*'
+  venue: Stochastic Environmental Research and Risk Assessment
+  status: Under review following revision
+  status_as_of: '2026-09-17'
+  code: https://github.com/zjusuge/TabPFNv2.5-DebrisFlow
