@@ -30,6 +30,10 @@ cv_ids=data['cv']['selected_publications']
 require(len(cv_ids)==len(set(cv_ids)),'Duplicate CV selection')
 require(set(cv_ids)<=ids,'Unknown selected CV publication')
 require(set(data['cv']['selected_reviewing'])<=set(data['service']['reviewing']),'Selected CV reviewing must match service records')
+require(len(data['honors'])==4,'Honor selection must contain the four requested records')
+for award in data['honors']:
+    for key in ['title','year','context','category']:require(bool(award.get(key)),f'Missing honor field: {key}')
+    require(award['category'] in ['honor','competition'],'Invalid honor category')
 for paper in data['publications']:
     if paper['id'] in cv_ids:
         require(bool(paper.get('cv_role')),'Missing selected CV author role')

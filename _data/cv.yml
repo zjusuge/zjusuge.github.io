@@ -32,13 +32,6 @@ technical_skills:
     text: SHAP analysis; temporal and spatial evaluation; prediction intervals; small-sample benchmarking.
   - category: Scientific communication
     text: English-language publications and research collaboration; two-year CSC-supported research visit at NTU.
-honors:
-  - year: '2025, 2021'
-    title: National Scholarship
-  - year: '2023'
-    title: China Harbour Engineering Company Scholarship
-  - year: '2022, 2021'
-    title: Honorable Mention, Mathematical Contest in Modeling / Interdisciplinary Contest in Modeling
 selected_reviewing:
   - Journal of Hydrology
   - Acta Geotechnica

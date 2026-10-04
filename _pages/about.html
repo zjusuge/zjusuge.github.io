@@ -681,197 +681,21 @@ redirect_from:
       <div class="section-content">
         <div class="academic-service"><h3>Peer review &amp; professional service</h3><details><summary>Journal reviewing · {{ site.data.service.reviewing.size }} journals</summary><p>{{ site.data.service.reviewing | join: '; ' | escape }}.</p></details><a class="text-link" href="{{ '/cv/' | relative_url }}">Full service record ↗</a></div>
         <details class="archive" id="honors">
-          <summary>
-            <span>Honors &amp; scholarships</span>
-            <span class="archive-symbol" aria-hidden="true"></span>
-          </summary>
-          <div class="archive-body">
-            <ul class="record-list">
-              <li>
-                <span class="record-date">2025 · 2021</span>
-                <div><strong>National Scholarship</strong><p>China</p></div>
-              </li>
-              <li>
-                <span class="record-date">2024</span>
-                <div>
-                  <strong>Chinese Government Scholarship</strong>
-                  <p>China Scholarship Council</p>
-                </div>
-              </li>
-              <li>
-                <span class="record-date">2023</span>
-                <div>
-                  <strong>China Harbour Engineering Company Scholarship</strong>
-                  <p>CHEC</p>
-                </div>
-              </li>
-              <li>
-                <span class="record-date">2022</span>
-                <div>
-                  <strong>Outstanding Graduate</strong>
-                  <p>
-                    City Underground Space Engineering Professional
-                    Committee, CSRME
-                  </p>
-                </div>
-              </li>
-              <li>
-                <span class="record-date">2022</span>
-                <div>
-                  <strong>Yunneng Electric Power Innovation Scholarship</strong>
-                  <p>Corporate Endowment</p>
-                </div>
-              </li>
-              <li>
-                <span class="record-date">2020</span>
-                <div>
-                  <strong>Wang Shuopeng Scholarship</strong>
-                  <p>Corporate Endowment</p>
-                </div>
-              </li>
-              <li>
-                <span class="record-date">2019–2022</span>
-                <div>
-                  <strong>First-Class Academic Scholarship</strong>
-                  <p>University level · Four consecutive years</p>
-                </div>
-              </li>
-              <li>
-                <span class="record-date">2019–2021</span>
-                <div>
-                  <strong>National Encouragement Scholarship</strong>
-                  <p>Three consecutive years</p>
-                </div>
-              </li>
-            </ul>
-          </div>
+          <summary><span>Honors &amp; scholarships</span><span class="archive-symbol" aria-hidden="true"></span></summary>
+          <div class="archive-body"><ul class="record-list">
+            {% for award in site.data.honors %}{% if award.category == 'honor' %}
+            <li><span class="record-date">{{ award.year | escape }}</span><div><strong>{{ award.title | escape }}</strong><p>{{ award.context | escape }}</p></div></li>
+            {% endif %}{% endfor %}
+          </ul></div>
         </details>
 
         <details class="archive" id="competitions">
-          <summary>
-            <span>Competition awards</span>
-            <span class="archive-symbol" aria-hidden="true"></span>
-          </summary>
-          <div class="archive-body">
-            <ul class="record-list">
-              <li>
-                <span class="record-date">Nov 2025</span>
-                <div>
-                  <strong>Silver Award</strong>
-                  <p>
-                    China International College Students’ Innovation Competition,
-                    Singapore Regional
-                  </p>
-                </div>
-              </li>
-              <li>
-                <span class="record-date">Aug 2024</span>
-                <div>
-                  <strong>Silver Award</strong>
-                  <p>
-                    Zhejiang International College Students’ Innovation
-                    Competition (Internet+), China
-                  </p>
-                </div>
-              </li>
-              <li>
-                <span class="record-date">May 2024</span>
-                <div>
-                  <strong>Bronze Award</strong>
-                  <p>
-                    The 14th “Challenge Cup” Zhejiang Undergraduate
-                    Entrepreneurship Plan Competition, China
-                  </p>
-                </div>
-              </li>
-              <li>
-                <span class="record-date">Jun 2023</span>
-                <div>
-                  <strong>Silver Award</strong>
-                  <p>
-                    The 15th “Dandelion” University Student Entrepreneurship
-                    Competition, Zhejiang University
-                  </p>
-                </div>
-              </li>
-              <li>
-                <span class="record-date">Apr 2022</span>
-                <div>
-                  <strong>Honorable Mention</strong>
-                  <p>Interdisciplinary Contest in Modeling (MCM/ICM), USA</p>
-                </div>
-              </li>
-              <li>
-                <span class="record-date">Aug 2021</span>
-                <div>
-                  <strong>Second Prize</strong>
-                  <p>
-                    The 14th National University Student Social Practice and
-                    Science Contest on Energy Saving and Emission Reduction,
-                    China
-                  </p>
-                </div>
-              </li>
-              <li>
-                <span class="record-date">Jul 2021</span>
-                <div>
-                  <strong>First Prize (Regional) · Third Prize (National)</strong>
-                  <p>
-                    The 8th National Financial and Securities Investment
-                    Simulation Training Contest, China
-                  </p>
-                </div>
-              </li>
-              <li>
-                <span class="record-date">Jun 2021</span>
-                <div>
-                  <strong>Grand Prize</strong>
-                  <p>
-                    The 3rd National College Student Structural Design
-                    Information Technology Competition, China
-                  </p>
-                </div>
-              </li>
-              <li>
-                <span class="record-date">May 2021</span>
-                <div>
-                  <strong>Third Prize</strong>
-                  <p>
-                    The 13th “Challenge Cup” National Undergraduate Curricular
-                    Academic Science and Technology Works Conference
-                    (Hubei), China
-                  </p>
-                </div>
-              </li>
-              <li>
-                <span class="record-date">Feb 2021</span>
-                <div>
-                  <strong>Honorable Mention</strong>
-                  <p>Mathematical Contest in Modeling (MCM/ICM), USA</p>
-                </div>
-              </li>
-              <li>
-                <span class="record-date">Nov 2020</span>
-                <div>
-                  <strong>Second Prize</strong>
-                  <p>
-                    Contemporary Undergraduate Mathematical Contest in Modeling
-                    (Hubei), China
-                  </p>
-                </div>
-              </li>
-              <li>
-                <span class="record-date">Jul 2020</span>
-                <div>
-                  <strong>Third Prize</strong>
-                  <p>
-                    The 5th National Construction College Construction
-                    Technology Application Skills Competition (Hubei), China
-                  </p>
-                </div>
-              </li>
-            </ul>
-          </div>
+          <summary><span>Competition awards</span><span class="archive-symbol" aria-hidden="true"></span></summary>
+          <div class="archive-body"><ul class="record-list">
+            {% for award in site.data.honors %}{% if award.category == 'competition' %}
+            <li><span class="record-date">{{ award.year | escape }}</span><div><strong>{{ award.title | escape }}</strong><p>{{ award.context | escape }}</p></div></li>
+            {% endif %}{% endfor %}
+          </ul></div>
         </details>
 
         <details class="archive" id="patents">

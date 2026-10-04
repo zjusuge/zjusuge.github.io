@@ -43,7 +43,7 @@
 - CV 精选论文、研究能力、技能和荣誉在 `_data/cv.yml`。论文使用 `selected_publications` 引用已有 ID，作者角色在 `publications.yml` 的 `cv_role` 中维护；完整主页论文列表不受精选范围影响。
 - 在审研究的简短贡献说明在 `manuscripts.yml` 的 `contribution` 中维护，状态旁显示 `status_as_of`，不能将简历更新日期当成重新确认投稿状态的日期。打印版采用三页分区，需检查是否出现溢出页。
 - 软件在 CV 中的简短说明使用 `software.yml` 的 `cv_description`；主页继续展示完整 `description`。可下载 PDF 位于 `assets/files/Tianlong_Wang_CV.pdf`，每次修改后须重新导出并替换。
-- CV 不单列 Technical skills；荣誉按 `cv.yml` 中 `honors` 的年份和名称维护；`selected_reviewing` 必须是 `service.yml` 现有期刊的子集。项目职责摘要在 `funding.yml` 的 `cv_contribution` 中维护，只写能由项目和成果材料支持的研究职责。
+- CV 不单列 Technical skills；主页与 CV 的四项精选荣誉统一在 `_data/honors.yml` 中维护年份、名称与授予机构/赛事说明；`selected_reviewing` 必须是 `service.yml` 现有期刊的子集。项目职责摘要在 `funding.yml` 的 `cv_contribution` 中维护，只写能由项目和成果材料支持的研究职责。
 - 桌面及打印版研究简介采用两端对齐；手机端简介及各端论文、日期和列表保留左对齐。CV 直接显示论文作者列表，不额外注明第一作者；投稿状态保留，记录日期在数据中维护，不作为页面注释显示。
 - 要更换三篇代表作，修改 `_data/home.yml` 的 `selected`。`paper_id` 必须对应论文的 `id`；同时更新代表作标题、年份和期刊说明。
 - 代表作目前采用纯文字卡片，不展示论文原图。学术主页顶部 `Poetry` 链接进入诗歌站，诗歌站顶部 `学术主页` 链接返回。
