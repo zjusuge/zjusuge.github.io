@@ -26,6 +26,13 @@ for paper in data['publications']:
             urls.add(link['url'].lower())
 for work in data['home']['selected']:
     require(work['paper_id'] in ids,f'Unknown selected paper: {work["paper_id"]}')
+cv_ids=data['cv']['selected_publications']
+require(len(cv_ids)==len(set(cv_ids)),'Duplicate CV selection')
+require(set(cv_ids)<=ids,'Unknown selected CV publication')
+for paper in data['publications']:
+    if paper['id'] in cv_ids:
+        require(bool(paper.get('cv_role')),'Missing selected CV author role')
+        require('First' in paper['cv_role'] or 'corresponding' in paper['cv_role'].lower(),'CV selection must show lead authorship')
 manuscript_ids=set()
 for manuscript in data['manuscripts']:
     for key in ['id','title','authors','venue','status','status_as_of','code']:

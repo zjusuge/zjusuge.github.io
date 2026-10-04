@@ -1,7 +1,7 @@
 - name: DOME
   category: Geohazard assessment
-  description: Regional debris-flow susceptibility assessment combining dynamic learner selection,
-    metaheuristic optimization, stacked ensembles and SHAP interpretation.
+  description: Regional debris-flow susceptibility assessment combining dynamic learner selection, metaheuristic
+    optimization, stacked ensembles and SHAP interpretation.
   tags:
   - Ensemble learning
   - Interpretation
@@ -12,53 +12,62 @@
     url: https://doi.org/10.1007/s11069-026-08307-2
   - label: Archive
     url: https://doi.org/10.5281/zenodo.16911533
+  cv_description: Dynamic ensemble selection and optimization for regional debris-flow susceptibility, with SHAP
+    interpretation.
 - name: TabPFNv2.5-DebrisFlow
   category: Small-sample prediction
-  description: Small-sample debris-flow volume prediction with TabPFN-2.5, sediment-source information,
-    machine-learning comparisons and regional holdout evaluation.
+  description: Small-sample debris-flow volume prediction with TabPFN-2.5, sediment-source information, machine-learning
+    comparisons and regional holdout evaluation.
   tags:
   - Tabular learning
   - Benchmarking
   links:
   - label: Repository
     url: https://github.com/zjusuge/TabPFNv2.5-DebrisFlow
+  cv_description: Small-sample debris-flow volume prediction using a pretrained tabular model and sediment-source
+    information.
 - name: RSRL-HU
   category: Landslide forecasting
-  description: One-day-ahead landslide velocity forecasting combining robust motion-state estimation,
-    groundwater forecasts, hydrology-informed residual learning and sequential prediction intervals.
+  description: One-day-ahead landslide velocity forecasting combining robust motion-state estimation, groundwater
+    forecasts, hydrology-informed residual learning and sequential prediction intervals.
   tags:
   - Hydrology-informed learning
   - Uncertainty quantification
   links:
   - label: Repository
     url: https://github.com/zjusuge/RSRL-HU
+  cv_description: One-day-ahead landslide velocity forecasts with hydrology-informed residual learning and sequential
+    intervals.
 - name: Hydrological Readiness Forecasting
   category: Early-warning support
-  description: Calibrated probabilities of warning-relevant hydrological states over the next three days
-    in small catchments, with chronological evaluation and optional SHAP attribution.
+  description: Calibrated probabilities of warning-relevant hydrological states over the next three days in small
+    catchments, with chronological evaluation and optional SHAP attribution.
   tags:
   - Probabilistic forecasting
   - Hydrological states
   links:
   - label: Repository
     url: https://github.com/zjusuge/hydrological-readiness-forecasting
+  cv_description: Three-day probabilistic forecasts of warning-relevant hydrological states, evaluated chronologically.
 - name: BWSD
   category: Catchment hydrology
-  description: Daily Basin Water Storage Degree calculation and hydrological-state classification
-    from the Fengshuwan catchment water balance.
+  description: Daily Basin Water Storage Degree calculation and hydrological-state classification from the Fengshuwan
+    catchment water balance.
   tags:
   - Water storage
   - Case study
   links:
   - label: Repository
     url: https://github.com/zjusuge/bwsd-fengshuwan-case
+  cv_description: Water-balance-based catchment storage indicator and daily hydrological-state classification.
 - name: HydroPIML-RS
   category: Hydrological prediction
-  description: Physics-informed residual stacking for short-lead runoff and water-stage forecasting,
-    with prediction replay and documented revision evidence for the Fengshuwan catchment.
+  description: Physics-informed residual stacking for short-lead runoff and water-stage forecasting, with prediction
+    replay and documented revision evidence for the Fengshuwan catchment.
   tags:
   - Physics-informed learning
   - Runoff and water stage
   links:
   - label: Repository
     url: https://github.com/zjusuge/hydropiml-rs-fengshuwan-case
+  cv_description: Physics-guided residual stacking for short-lead runoff and water-stage prediction.

@@ -1,0 +1,18 @@
+selected_publications:
+  - paper-dome
+  - paper-source-volume
+  - paper-4
+  - paper-5
+  - paper-velocity
+  - paper-7
+  - paper-9
+  - paper-8
+strengths:
+  - title: Physics-informed prediction
+    text: Water-balance reasoning, hydrological memory and physical consistency constraints for runoff, water-stage and landslide forecasts.
+  - title: Explainable AI and algorithm development
+    text: Ensemble learning, metaheuristic optimization, SHAP analysis and pretrained tabular models for geohazard assessment and sparse-data prediction.
+  - title: Evaluation and uncertainty
+    text: Chronological and spatial evaluation, robust state estimation and sequential prediction intervals.
+skills: 'Python and MATLAB for research software and data analysis; scientific writing and collaboration in English, including a two-year research visit at NTU (CET-6: 508).'
+honors: National Scholarship (2025, 2021); China Harbour Engineering Company Scholarship (2023); Honorable Mention, MCM/ICM (2022, 2021).

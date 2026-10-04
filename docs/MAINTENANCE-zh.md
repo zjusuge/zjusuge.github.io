@@ -40,6 +40,9 @@
 - 外审手稿放在 `_data/manuscripts.yml`，主页展开列表和 CV 共用。`status` 用 `Under review` 或 `Under review following revision`，`status_as_of` 保存作者记录日期（YYYY-MM-DD）。不要将外审文章列为已发表。文章发表后移至 `publications.yml` 并删除原手稿记录，避免重复。
 - `_data/home.yml` 的 `ongoing` 只维护研究方向摘要；不是投稿状态清单。准备中的工作不写成外审。
 - CV 研究简介、可入职日期、更新时间维护在 `_data/profile.yml` 的 `research_profile`、`available_from`、`cv_updated`。内容更新后使用 `/cv/` 的 Print / Save as PDF 重新导出并检查分页，旧 PDF 不会自动更新。
+- CV 精选论文、研究能力、技能和荣誉在 `_data/cv.yml`。论文使用 `selected_publications` 引用已有 ID，作者角色在 `publications.yml` 的 `cv_role` 中维护；完整主页论文列表不受精选范围影响。
+- 在审研究的简短贡献说明在 `manuscripts.yml` 的 `contribution` 中维护，状态旁显示 `status_as_of`，不能将简历更新日期当成重新确认投稿状态的日期。打印版采用三页分区，需检查是否出现溢出页。
+- 软件在 CV 中的简短说明使用 `software.yml` 的 `cv_description`；主页继续展示完整 `description`。可下载 PDF 位于 `assets/files/Tianlong_Wang_CV.pdf`，每次修改后须重新导出并替换。
 - 要更换三篇代表作，修改 `_data/home.yml` 的 `selected`。`paper_id` 必须对应论文的 `id`；同时更新代表作标题、年份和期刊说明。
 - 代表作目前采用纯文字卡片，不展示论文原图。学术主页顶部 `Poetry` 链接进入诗歌站，诗歌站顶部 `学术主页` 链接返回。
 - 教育与导师链接在 `_data/education.yml`，`supervisor_url` 为学校个人主页。主页与 CV 共用数据，目前只展示浙大博士和 NTU 联培经历。
