@@ -7,6 +7,13 @@ selected_publications:
   - paper-7
   - paper-9
   - paper-8
+profile: >-
+  I develop physics-informed and explainable machine-learning methods for debris-flow,
+  landslide and hydrological prediction. My research combines catchment storage and
+  hydrological memory with residual learning, ensemble optimization and uncertainty
+  analysis, with particular attention to small catchments and sparse observations.
+  I seek to extend these methods to related problems in hydrology, geotechnics and
+  engineering monitoring through interdisciplinary collaboration.
 strengths:
   - title: Physics-informed prediction
     text: Water-balance reasoning, hydrological memory and physical consistency constraints for runoff, water-stage and landslide forecasts.
@@ -14,5 +21,29 @@ strengths:
     text: Ensemble learning, metaheuristic optimization, SHAP analysis and pretrained tabular models for geohazard assessment and sparse-data prediction.
   - title: Evaluation and uncertainty
     text: Chronological and spatial evaluation, robust state estimation and sequential prediction intervals.
-skills: 'Python and MATLAB for research software and data analysis; scientific writing and collaboration in English, including a two-year research visit at NTU (CET-6: 508).'
-honors: National Scholarship (2025, 2021); China Harbour Engineering Company Scholarship (2023); Honorable Mention, MCM/ICM (2022, 2021).
+technical_skills:
+  - category: Programming and research software
+    text: Python; MATLAB; data analysis, model implementation and GitHub-based research code sharing.
+  - category: Machine learning and optimization
+    text: Residual and stacking ensembles; metaheuristic optimization; generative learning; pretrained tabular models.
+  - category: Process-informed modelling
+    text: Catchment water balance; hydrological memory; groundwater response; robust motion-state estimation.
+  - category: Interpretation and evaluation
+    text: SHAP analysis; temporal and spatial evaluation; prediction intervals; small-sample benchmarking.
+  - category: Scientific communication
+    text: English-language publications and research collaboration; two-year CSC-supported research visit at NTU.
+honors:
+  - year: '2025, 2021'
+    title: National Scholarship
+  - year: '2023'
+    title: China Harbour Engineering Company Scholarship
+  - year: '2022, 2021'
+    title: Honorable Mention, Mathematical Contest in Modeling / Interdisciplinary Contest in Modeling
+selected_reviewing:
+  - Journal of Hydrology
+  - Acta Geotechnica
+  - Bulletin of Engineering Geology and the Environment
+  - Stochastic Environmental Research and Risk Assessment
+  - Applied Intelligence
+  - Array
+  - International Journal of Interactive Multimedia and Artificial Intelligence

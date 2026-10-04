@@ -29,6 +29,7 @@ for work in data['home']['selected']:
 cv_ids=data['cv']['selected_publications']
 require(len(cv_ids)==len(set(cv_ids)),'Duplicate CV selection')
 require(set(cv_ids)<=ids,'Unknown selected CV publication')
+require(set(data['cv']['selected_reviewing'])<=set(data['service']['reviewing']),'Selected CV reviewing must match service records')
 for paper in data['publications']:
     if paper['id'] in cv_ids:
         require(bool(paper.get('cv_role')),'Missing selected CV author role')
