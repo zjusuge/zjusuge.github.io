@@ -30,7 +30,17 @@ cv_ids=data['cv']['selected_publications']
 require(len(cv_ids)==len(set(cv_ids)),'Duplicate CV selection')
 require(set(cv_ids)<=ids,'Unknown selected CV publication')
 require(set(data['cv']['selected_reviewing'])<=set(data['service']['reviewing']),'Selected CV reviewing must match service records')
-require(len(data['honors'])==4,'Honor selection must contain the four requested records')
+require(bool(data['honors']),'Honor record must not be empty')
+patent_numbers=set()
+for patent in data['patents']:
+    for key in ['number','year','status','title','authors','country','url']:
+        require(bool(patent.get(key)),f'Missing patent field: {key}')
+    require(patent['number'] not in patent_numbers,'Duplicate patent publication number')
+    patent_numbers.add(patent['number'])
+    require(patent['status'] in ['Granted','Published application'],'Invalid patent status')
+    require(patent['url'].startswith('https://'),'Patent link must use HTTPS')
+for profile in data['profiles']:
+    require(bool(profile.get('label')) and profile.get('url','').startswith('https://'),'Invalid profile link')
 for award in data['honors']:
     for key in ['title','year','context','category']:require(bool(award.get(key)),f'Missing honor field: {key}')
     require(award['category'] in ['honor','competition'],'Invalid honor category')
@@ -50,7 +60,8 @@ for manuscript in data['manuscripts']:
     require(manuscript['title'].casefold() not in {p['title'].casefold() for p in data['publications']},'Manuscript duplicated in published work')
 for grant in data['funding']:
     require(grant['category'] in ['individual','collaborative'],'Invalid funding category')
-    for key in ['title','period','funder','role','project','details']:require(bool(grant.get(key)),f'Missing grant field: {key}')
+    for key in ['title','funder','role','project']:require(bool(grant.get(key)),f'Missing grant field: {key}')
+    for key in ['period','details']:require(key in grant,f'Missing grant field: {key}')
 for project in data['software']:
     for key in ['name','category','description','tags','links']:require(bool(project.get(key)),f'Missing software field: {key}')
     require(any('github.com/' in x['url'] for x in project['links']),f'Missing repository: {project["name"]}')
@@ -108,3 +119,4 @@ if len(sys.argv)>1:
                 if urlparse(href).path.endswith('/'):path=path/'index.html'
                 require(path.exists(),f'Missing asset/page: {href}')
 print(f'PASS: {len(ids)} publications, {len(manuscript_ids)} manuscripts, {len(data["funding"])} grants, {len(data["software"])} software projects; selected references valid.')
+

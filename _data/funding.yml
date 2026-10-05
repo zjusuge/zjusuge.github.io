@@ -3,52 +3,118 @@
   title: Young Elite Scientists Sponsorship Program Doctoral Student Special Plan
   funder: China Association for Science and Technology
   role: PI
-  project: Spatiotemporal Dynamic Forecasting and Interpretive Analysis System for Debris Flows in
-    Small Watersheds.
-  cv_contribution: Lead research on prediction methods and model interpretation for small-catchment debris-flow studies.
+  project: Spatiotemporal Dynamic Forecasting and Interpretive Analysis System for Debris Flows in Small
+    Watersheds.
+  cv_contribution: Lead research on prediction methods and model interpretation for small-catchment debris-flow
+    studies.
   details: 'Project ID: 156-O-170-0000603-2 Funding: RMB 40,000.'
+  amount_rmb: 40000
 - category: individual
   period: June 2025 — June 2027
   title: Seed Fund Cultivation Project of Ocean College
   funder: Zhejiang University
   role: PI
-  project: Research on Intelligent Debris Flow Forecasting Methods for Small Watersheds Based on
-    Multi-scale Hydrodynamic Coupling Mechanisms.
-  cv_contribution: Develop a doctoral research programme connecting catchment hydrological states with physics-guided prediction.
+  project: Research on Intelligent Debris Flow Forecasting Methods for Small Watersheds Based on Multi-scale
+    Hydrodynamic Coupling Mechanisms.
+  cv_contribution: Develop a doctoral research programme connecting catchment hydrological states with
+    physics-guided prediction.
   details: 'Grant No. 2025BS004 Funding: RMB 50,000.'
+  amount_rmb: 50000
 - category: individual
   period: 2025–2026
   title: Outstanding Doctoral Dissertation Award Cultivation Grant
   funder: Zhejiang University
   role: PI
-  project: Spatiotemporal Dynamic Forecasting and Interpretive Analysis System for Debris Flows in
-    Small Watersheds.
-  cv_contribution: Doctoral research support for integrating hydrological-state analysis, prediction and interpretation.
+  project: Spatiotemporal Dynamic Forecasting and Interpretive Analysis System for Debris Flows in Small
+    Watersheds.
+  cv_contribution: Doctoral research support for integrating hydrological-state analysis, prediction and
+    interpretation.
   details: Grant No. 825011A · RMB 36,000.
-  note: Month and completion status differ between the July 2026 CV and earlier homepage; omitted
-    pending confirmation.
+  amount_rmb: 36000
 - category: individual
   period: September 2024 — September 2026
   title: National Construction of High-Level Universities Program
   funder: China Scholarship Council
   role: Recipient
-  project: Research on Early Spatiotemporal Prediction of Debris Flows and Disaster Control in Small
-    Watersheds.
+  project: Research on Early Spatiotemporal Prediction of Debris Flows and Disaster Control in Small Watersheds.
   details: 'Grant No. 202406320358 Support: RMB 300,000.'
+  amount_rmb: 300000
 - category: collaborative
   period: January 2023 — December 2027
   title: Key Program
   funder: National Natural Science Foundation of China
   role: Core team member
-  project: Early Forecasting and Disaster Control Methods for Debris Flows in Small Watersheds Based
-    on Hydrodynamic Analysis.
-  cv_contribution: Contribute to the project's hydrology-informed geohazard prediction research; related work includes storage-state and short-lead forecasting studies.
+  project: Early Forecasting and Disaster Control Methods for Debris Flows in Small Watersheds Based on
+    Hydrodynamic Analysis.
+  cv_contribution: Contribute to the project's hydrology-informed geohazard prediction research; related
+    work includes storage-state and short-lead forecasting studies.
   details: 'Grant No. 42230702 Total project budget: RMB 2,730,000.'
 - category: collaborative
   period: January 2019 — December 2021
   title: Young Scientists Fund
   funder: National Natural Science Foundation of China
   role: Core team member
-  project: Research on Deformation Prediction Models and Instability Criterion Methods for Reservoir
-    Bank Slopes Based on Copula Theory.
+  project: Research on Deformation Prediction Models and Instability Criterion Methods for Reservoir Bank
+    Slopes Based on Copula Theory.
   details: 'Grant No. 51809151 Total project budget: RMB 250,000. Completed.'
+- category: individual
+  period: 2025.06–2025.11
+  title: 'SLOPE GUARD: Integrated Landslide Monitoring and Drainage Solution Provider'
+  funder: China International College Students' Innovation Competition, Singapore Regional
+  role: PI
+  project: 'SLOPE GUARD: Integrated Landslide Monitoring and Drainage Solution Provider'
+  details: Project No. 00006 · RMB 10,000 · Completed with distinction.
+  amount_rmb: 10000
+- category: individual
+  period: Completed
+  title: Application of magnetic fluids to visualized fracture seepage and grouting-based seepage control
+  funder: University research project
+  role: PI
+  project: Application of magnetic fluids to visualized fracture seepage and grouting-based seepage control
+  details: Completed with distinction.
+  amount_rmb: 0
+- category: individual
+  period: Completed
+  title: Energy dissipation, load reduction and reliability of flexible cushion layers for gravity retaining
+    walls
+  funder: University research project
+  role: PI
+  project: Energy dissipation, load reduction and reliability of flexible cushion layers for gravity retaining
+    walls
+  details: Completed with distinction.
+  amount_rmb: 0
+- category: collaborative
+  period: ''
+  title: Geomechanical mechanisms of collapse and landslide hazards on steep slopes under climate change
+  funder: CAST Young Elite Scientists Sponsorship Program
+  role: Core team member
+  project: Geomechanical mechanisms of collapse and landslide hazards on steep slopes under climate change
+  details: ''
+- category: collaborative
+  period: Completed
+  title: Novel drainage treatment technologies for soft soil
+  funder: major provincial commissioned research project
+  role: Core team member
+  project: Novel drainage treatment technologies for soft soil
+  details: Completed with distinction.
+- category: collaborative
+  period: Completed
+  title: Smart monitoring system for digitally instrumented towers
+  funder: provincial student innovation project
+  role: Core team member
+  project: Smart monitoring system for digitally instrumented towers
+  details: Completed with distinction.
+- category: collaborative
+  period: Completed
+  title: Innovative methods and technologies for slope protection and treatment
+  funder: provincial student innovation project
+  role: Core team member
+  project: Innovative methods and technologies for slope protection and treatment
+  details: Completed with distinction.
+- category: collaborative
+  period: Completed
+  title: Integrated space-air-ground landslide monitoring and siphon-drainage mitigation system
+  funder: provincial student innovation project
+  role: Core team member
+  project: Integrated space-air-ground landslide monitoring and siphon-drainage mitigation system
+  details: Completed with distinction.

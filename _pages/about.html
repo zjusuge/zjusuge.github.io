@@ -48,7 +48,7 @@ redirect_from:
     src="{{ '/assets/js/academic.js' | relative_url }}?v=2"
     defer
   ></script>
-  <link rel="stylesheet" href="{{ '/assets/css/editorial.css' | relative_url }}?v=20260908">
+  <link rel="stylesheet" href="{{ '/assets/css/editorial.css' | relative_url }}?v=20261004">
   <link rel="icon" href="{{ '/assets/favicon.svg' | relative_url }}" type="image/svg+xml">
   <script type="application/ld+json">
   {"@context":"https://schema.org","@type":"Person","name":{{ site.data.profile.name | jsonify }},"url":"https://zjusuge.github.io/","jobTitle":"PhD Student","affiliation":[{"@type":"CollegeOrUniversity","name":"Zhejiang University"},{"@type":"CollegeOrUniversity","name":"Nanyang Technological University"}],"sameAs":["https://orcid.org/0000-0002-0598-5481","https://github.com/zjusuge","https://scholar.google.com/citations?user=JNiHto0AAAAJ","https://www.linkedin.com/in/tianlong-wang/"],"knowsAbout":["Debris flows","Catchment hydrology","Physics-informed machine learning","Landslide forecasting"]}
@@ -138,7 +138,7 @@ redirect_from:
           <a href="https://person.zju.edu.cn/0096428">Prof. Hongyue Sun</a>
           at ZJU and
           <a href="https://dr.ntu.edu.sg/entities/person/Chu-Jian">Prof. Chu Jian</a>
-          during joint doctoral research training at NTU.
+          during my joint PhD programme at NTU.
         </p>
 
         <div class="hero-actions">
@@ -153,15 +153,7 @@ redirect_from:
           </a>
         </div>
 
-        <div class="profile-links" aria-label="Academic and professional profiles">
-          <a href="https://scholar.google.com/citations?user=JNiHto0AAAAJ">Google Scholar</a>
-          <a href="https://github.com/zjusuge">GitHub</a>
-          <a href="https://orcid.org/0000-0002-0598-5481">ORCID</a>
-          <a href="https://www.researchgate.net/profile/Tianlong-Wang-7">
-            ResearchGate
-          </a>
-          <a href="https://www.linkedin.com/in/tianlong-wang/">LinkedIn</a>
-        </div>
+        <div class="profile-links" aria-label="Academic and professional profiles">{% for profile in site.data.profiles %}<a href="{{ profile.url | escape }}">{{ profile.label | escape }}</a>{% endfor %}</div>
       </div>
 
       <!-- Conceptual research artwork; not a study-area map. -->
@@ -423,6 +415,8 @@ redirect_from:
 
     <section class="container methods-strip" aria-label="Research strengths">{% for strength in site.data.home.strengths %}<div><h2>{{ strength.title | escape }}</h2><p>{{ strength.text | escape }}</p></div>{% endfor %}</section>
     <!-- Research: content is maintained in _data/home.yml. -->
+<section class="container research-snapshot" aria-label="Research record"><a href="#publications"><strong>{{ site.data.publications | size }}</strong><span>Published papers</span></a><a href="#current-research"><strong>{{ site.data.manuscripts | size }}</strong><span>Manuscripts under review</span></a><a href="#research-software"><strong>{{ site.data.software | size }}</strong><span>Open-source software</span></a><a href="#patents"><strong>{{ site.data.patents | size }}</strong><span>Patent records</span></a></section>
+
     <section
       class="research-band"
       id="research"
@@ -636,13 +630,13 @@ redirect_from:
     >
       <div class="section-heading">
         <p class="eyebrow">04 / Research support</p>
-        <h2 id="funding-title">Funding &amp; projects</h2>
+        <h2 id="funding-title">Funding &amp; projects</h2><p class="section-intro">{{ site.data.funding | where: 'role', 'PI' | size }} investigator-led projects · {{ site.data.funding | where: 'category', 'collaborative' | size }} collaborative projects</p>
         
       </div>
 
       <div class="section-content">
         {% assign categories = 'individual,collaborative' | split: ',' %}
-        {% for category in categories %}
+        {% for category in categories %}{% if category == 'collaborative' %}<details class="archive"><summary>Collaborative projects · {{ site.data.funding | where: 'category', 'collaborative' | size }}</summary><div class="archive-body">{% endif %}
         <h3 class="subsection-title">{% if category == 'individual' %}Individual funding &amp; scholarships{% else %}Collaborative research projects{% endif %}</h3>
         <div class="funding-list">
         {% for grant in site.data.funding %}{% if grant.category == category %}
@@ -659,7 +653,7 @@ redirect_from:
           </article>
         {% endif %}{% endfor %}
         </div>
-        {% endfor %}
+        {% if category == 'collaborative' %}</div></details>{% endif %}{% endfor %}
       </div>
     </section>
 
@@ -680,8 +674,8 @@ redirect_from:
 
       <div class="section-content">
         <div class="academic-service"><h3>Peer review &amp; professional service</h3><details><summary>Journal reviewing · {{ site.data.service.reviewing.size }} journals</summary><p>{{ site.data.service.reviewing | join: '; ' | escape }}.</p></details><a class="text-link" href="{{ '/cv/' | relative_url }}">Full service record ↗</a></div>
-        <details class="archive" id="honors">
-          <summary><span>Honors &amp; scholarships</span><span class="archive-symbol" aria-hidden="true"></span></summary>
+        <div class="recognition-highlights">{% for award in site.data.honors %}{% if award.featured %}<div><strong>{{ award.title | escape }}</strong><p>{{ award.context | escape }} · {{ award.year | escape }}</p></div>{% endif %}{% endfor %}</div><details class="archive" id="honors">
+          <summary><span>Honors &amp; scholarships · {{ site.data.honors | where: 'category', 'honor' | size }} records</span><span class="archive-symbol" aria-hidden="true"></span></summary>
           <div class="archive-body"><ul class="record-list">
             {% for award in site.data.honors %}{% if award.category == 'honor' %}
             <li><span class="record-date">{{ award.year | escape }}</span><div><strong>{{ award.title | escape }}</strong><p>{{ award.context | escape }}</p></div></li>
@@ -690,7 +684,7 @@ redirect_from:
         </details>
 
         <details class="archive" id="competitions">
-          <summary><span>Competition awards</span><span class="archive-symbol" aria-hidden="true"></span></summary>
+          <summary><span>Competition awards · {{ site.data.honors | where: 'category', 'competition' | size }} records</span><span class="archive-symbol" aria-hidden="true"></span></summary>
           <div class="archive-body"><ul class="record-list">
             {% for award in site.data.honors %}{% if award.category == 'competition' %}
             <li><span class="record-date">{{ award.year | escape }}</span><div><strong>{{ award.title | escape }}</strong><p>{{ award.context | escape }}</p></div></li>
@@ -700,88 +694,11 @@ redirect_from:
 
         <details class="archive" id="patents">
           <summary>
-            <span>Patents &amp; patent applications</span>
+            <span>Patents &amp; patent applications · {{ site.data.patents | size }} records</span>
             <span class="archive-symbol" aria-hidden="true"></span>
           </summary>
           <div class="archive-body">
-            <ol class="patent-list">
-              <li>
-                <h3>
-                  Monitoring and Early Warning Method and System for
-                  Rainfall-induced Debris Flow
-                </h3>
-                <p>
-                  H. Sun, X. Wang, <strong>Tianlong Wang</strong>,
-                  R. Tang, R. Luo
-                </p>
-                <p class="patent-meta">Japan · No. 2024-017304 · 2024</p>
-              </li>
-              <li>
-                <h3>
-                  Early Warning and Mitigation Method for Debris Flow
-                  Disasters in Small Watersheds
-                </h3>
-                <p>
-                  X. Wang, H. Sun, S. Shao, R. Luo,
-                  <strong>Tianlong Wang</strong>
-                </p>
-                <p class="patent-meta">China · CN118262481A · 2024</p>
-              </li>
-              <li>
-                <h3>
-                  Monitoring and Early Warning Method and System for
-                  Rainfall-induced Landslides
-                </h3>
-                <p>
-                  X. Wang, H. Sun, <strong>Tianlong Wang</strong>,
-                  R. Tang, R. Luo
-                </p>
-                <p class="patent-meta">China · CN117854239A · 2024</p>
-              </li>
-              <li>
-                <h3>
-                  Landslide Displacement Prediction Method Based on
-                  IVMD-IAO-BiLSTM
-                </h3>
-                <p>
-                  <strong>Tianlong Wang</strong>, H. Sun, Z. Chu,
-                  R. Luo, X. Wang
-                </p>
-                <p class="patent-meta">China · CN116757323A · 2023</p>
-              </li>
-              <li>
-                <h3>
-                  Eccentric Hook-shaped Expansible Pre-stressed Anchoring
-                  Structure and Its Anchoring Method
-                </h3>
-                <p>J. Liu, Z. Li, <strong>Tianlong Wang</strong>, et al.</p>
-                <p class="patent-meta">China · CN113718767B · 2023</p>
-              </li>
-              <li>
-                <h3>Method for Repairing Dam Crack Defects Using Magnetic Mortar</h3>
-                <p>J. Liu, Z. Li, <strong>Tianlong Wang</strong>, et al.</p>
-                <p class="patent-meta">China · CN114396022A · 2022</p>
-              </li>
-              <li>
-                <h3>
-                  Device and Method for Obtaining the Position of Liquid
-                  Displacement Surface in Rock Cracks
-                </h3>
-                <p>
-                  J. Liu, Q. Shi, Z. Wei, S. Li, L. Tang,
-                  <strong>Tianlong Wang</strong>, et al.
-                </p>
-                <p class="patent-meta">China · CN111595550B · 2022</p>
-              </li>
-              <li>
-                <h3>Pile Structure and Construction Method in Coral Sand Environment</h3>
-                <p>
-                  J. Liu, Q. Shi, Z. Wei, S. Li, L. Tang,
-                  <strong>Tianlong Wang</strong>, et al.
-                </p>
-                <p class="patent-meta">China · CN110886291B · 2021</p>
-              </li>
-            </ol>
+            <ol class="patent-list">{% for patent in site.data.patents %}<li><h3>{{ patent.title | escape }}</h3><p>{{ patent.authors | escape | replace: 'Tianlong Wang', '<strong>Tianlong Wang</strong>' }}</p><p class="patent-meta">{{ patent.country | escape }} · {{ patent.number | escape }} · {{ patent.year | escape }} · {{ patent.status | escape }} · <a href="{{ patent.url | escape }}">Patent record ↗</a></p></li>{% endfor %}</ol>
           </div>
         </details>
 
@@ -881,13 +798,7 @@ redirect_from:
             Zhejiang University<br>
             Joint PhD student at NTU · 2024–2026
           </p>
-          <div class="contact-links">
-            <a href="https://scholar.google.com/citations?user=JNiHto0AAAAJ">
-              Scholar
-            </a>
-            <a href="https://github.com/zjusuge">GitHub</a>
-            <a href="https://orcid.org/0000-0002-0598-5481">ORCID</a>
-          </div>
+          <div class="contact-links">{% for profile in site.data.profiles %}<a href="{{ profile.url | escape }}">{{ profile.label | escape }}</a>{% endfor %}</div>
         </div>
       </div>
     </section>
@@ -906,3 +817,4 @@ redirect_from:
   </footer>
 </body>
 </html>
+

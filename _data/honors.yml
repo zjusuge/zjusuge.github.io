@@ -1,16 +1,101 @@
 - title: National Scholarship
-  year: '2025, 2021'
+  year: '2025'
+  context: China
+  category: honor
+  featured: true
+- title: Chinese Government Scholarship
+  year: '2024'
+  context: China Scholarship Council
+  category: honor
+- title: China Harbour Engineering Company Scholarship
+  year: '2023'
   context: China
   category: honor
 - title: Outstanding Graduate
   year: '2022'
-  context: Chinese Society for Rock Mechanics and Engineering · One of 100 recipients nationwide
+  context: Chinese Society for Rock Mechanics and Engineering; one of 100 recipients
+    nationwide
+  category: honor
+  featured: true
+- title: Outstanding Graduate
+  year: '2022'
+  context: university level
+  category: honor
+- title: Yunneng Electric Power Innovation Scholarship
+  year: '2022'
+  context: China
+  category: honor
+- title: National Scholarship
+  year: '2021'
+  context: China
+  category: honor
+- title: Wang Shuopeng Scholarship
+  year: '2020'
+  context: China
+  category: honor
+- title: First-Class Academic Scholarship
+  year: 2019–2022
+  context: four consecutive years
+  category: honor
+- title: National Encouragement Scholarship
+  year: 2019–2021
+  context: three consecutive years
   category: honor
 - title: Silver Award
   year: '2025'
-  context: China International College Students' Innovation Competition, Singapore Regional
+  context: China International College Students' Innovation Competition, Singapore
+    Regional
+  category: competition
+  featured: true
+- title: Silver Award
+  year: '2024'
+  context: Zhejiang International College Students' Innovation Competition (Internet+)
+  category: competition
+- title: Bronze Award
+  year: '2024'
+  context: 14th Challenge Cup Zhejiang Undergraduate Entrepreneurship Plan Competition
+  category: competition
+- title: Silver Award
+  year: '2023'
+  context: 15th Dandelion University Student Entrepreneurship Competition, Zhejiang
+    University
+  category: competition
+- title: Honorable Mention
+  year: '2022'
+  context: Mathematical Contest in Modeling / Interdisciplinary Contest in Modeling
+    (MCM/ICM)
+  category: competition
+- title: Second Prize
+  year: '2021'
+  context: national final, 14th National University Student Social Practice and Science
+    Contest on Energy Saving and Emission Reduction
+  category: competition
+- title: First Prize
+  year: '2021'
+  context: Southern Region; Third Prize, National, 8th National Financial and Securities
+    Investment Simulation Training Contest
   category: competition
 - title: Grand Prize
   year: '2021'
-  context: The 3rd National College Student Structural Design Information Technology Competition, China
+  context: 3rd National College Student Structural Design Information Technology Competition
+  category: competition
+  featured: true
+- title: Third Prize
+  year: '2021'
+  context: Hubei, 13th Challenge Cup National Undergraduate Curricular Academic Science
+    and Technology Works Competition
+  category: competition
+- title: Honorable Mention
+  year: '2021'
+  context: Mathematical Contest in Modeling / Interdisciplinary Contest in Modeling
+    (MCM/ICM)
+  category: competition
+- title: Second Prize
+  year: '2020'
+  context: Hubei, Contemporary Undergraduate Mathematical Contest in Modeling
+  category: competition
+- title: Third Prize
+  year: '2020'
+  context: Hubei, 5th National Construction College Construction Technology Application
+    Skills Competition
   category: competition
