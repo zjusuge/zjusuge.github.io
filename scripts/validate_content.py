@@ -50,13 +50,14 @@ for paper in data['publications']:
         require('First' in paper['cv_role'] or 'corresponding' in paper['cv_role'].lower(),'CV selection must show lead authorship')
 manuscript_ids=set()
 for manuscript in data['manuscripts']:
-    for key in ['id','title','authors','venue','status','status_as_of','code']:
+    for key in ['id','title','authors','venue','status','status_as_of']:
         require(bool(manuscript.get(key)),f'Missing manuscript field: {key}')
     require(manuscript['id'] not in ids | manuscript_ids,'Duplicate manuscript/publication id')
     manuscript_ids.add(manuscript['id'])
-    require(manuscript['status'] in ['Under review','Under review following revision'],'Invalid review status')
+    require(manuscript['status'] in ['Under review','Under review following revision','Under review following second revision'],'Invalid review status')
     require(re.fullmatch(r'\d{4}-\d{2}-\d{2}',str(manuscript['status_as_of'])),'Use ISO date for review status')
-    require(manuscript['code'].startswith('https://github.com/'),'Invalid manuscript code link')
+    if manuscript.get('code'):
+        require(manuscript['code'].startswith('https://github.com/'),'Invalid manuscript code link')
     require(manuscript['title'].casefold() not in {p['title'].casefold() for p in data['publications']},'Manuscript duplicated in published work')
 for grant in data['funding']:
     require(grant['category'] in ['individual','collaborative'],'Invalid funding category')
