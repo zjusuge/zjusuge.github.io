@@ -5,8 +5,13 @@ selected_publications:
 - paper-5
 - paper-velocity
 - paper-7
-- paper-9
 - paper-8
+- paper-9
+- paper-10
+- paper-11
+- paper-12
+- paper-13
+- paper-14
 profile: I develop physics-informed and explainable machine-learning methods for debris-flow, landslide
   and hydrological prediction. My research combines hydrological reasoning, residual learning, ensemble
   optimization and uncertainty analysis, with an emphasis on small catchments and sparse observations.
@@ -27,3 +32,11 @@ selected_reviewing:
 - Applied Intelligence
 - Array
 - International Journal of Interactive Multimedia and Artificial Intelligence
+selected_manuscripts:
+- manuscript-hydropiml
+- manuscript-bwsd
+- manuscript-readiness
+- manuscript-rsrl
+- manuscript-tabpfn
+- manuscript-cpec
+- manuscript-dynastack

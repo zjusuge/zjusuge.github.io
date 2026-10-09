@@ -1,7 +1,7 @@
 - id: paper-dome
   year: 2026
-  title: 'DOME: A Dynamic Optimization Meta-Ensemble Framework for Debris-Flow Susceptibility Assessment with SHAP-Based
-    Interpretation'
+  title: 'DOME: A Dynamic Optimization Meta-Ensemble Framework for Debris-Flow Susceptibility Assessment
+    with SHAP-Based Interpretation'
   venue: Natural Hazards, 122, Article 545.
   type: Journal article
   topic: Debris flows
@@ -16,8 +16,8 @@
   cv_role: First and corresponding author
 - id: paper-source-volume
   year: 2026
-  title: 'Intelligent Prediction of Post-Seismic Debris Flow Source Volumes: A Physics-Informed Generative Deep
-    Learning Framework'
+  title: 'Intelligent Prediction of Post-Seismic Debris Flow Source Volumes: A Physics-Informed Generative
+    Deep Learning Framework'
   venue: 'Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards, 1–29.'
   type: Journal article
   topic: Debris flows
@@ -28,8 +28,8 @@
   cv_role: First author
 - id: paper-swat
   year: 2026
-  title: 'Impacts of Land Use Change on Watershed Hydrological Processes Based on the SWAT-ML-SHAP Model: A Case
-    Study of Fenshuijiang River Basin'
+  title: 'Impacts of Land Use Change on Watershed Hydrological Processes Based on the SWAT-ML-SHAP Model:
+    A Case Study of Fenshuijiang River Basin'
   venue: Earth Science.
   type: Journal article
   topic: Hydrology
@@ -39,8 +39,8 @@
   authors: K. Zhang, Tianlong Wang, J. Su, H. Sun*
 - id: paper-4
   year: 2025
-  title: An integrated IKOA-CNN-BiGRU-Attention framework with SHAP explainability for high-precision debris flow
-    hazard prediction in the Nujiang river basin, China
+  title: An integrated IKOA-CNN-BiGRU-Attention framework with SHAP explainability for high-precision
+    debris flow hazard prediction in the Nujiang river basin, China
   venue: PLOS ONE, 20(6), e0326587.
   type: Journal article
   topic: Debris flows
@@ -53,8 +53,8 @@
   cv_role: Second and corresponding author
 - id: paper-5
   year: 2025
-  title: 'A novel method for predicting debris flow hazard: a multi-strategy fusion approach based on the light
-    gradient boosting machine framework'
+  title: 'A novel method for predicting debris flow hazard: a multi-strategy fusion approach based on
+    the light gradient boosting machine framework'
   venue: Stochastic Environmental Research and Risk Assessment, 39, 4867–4890.
   type: Journal article
   topic: Debris flows
@@ -65,7 +65,8 @@
   cv_role: First author
 - id: paper-drainage
   year: 2025
-  title: 3D Numerical Simulation of the Shortest Length of a Blocking Section for a Self-Starting Drainage Method
+  title: 3D Numerical Simulation of the Shortest Length of a Blocking Section for a Self-Starting Drainage
+    Method
   venue: International Journal of Geomechanics, 25(10), 04025209.
   type: Journal article
   topic: Geotechnics
@@ -75,8 +76,8 @@
   authors: X. Wang, Q. Ge, K. Zhang, Tianlong Wang, T. Ma, H. Sun*
 - id: paper-calibration
   year: 2025
-  title: Multi-parameter Calibration Method and Application of Constitutive Model Based on Improved Dung Beetle
-    Optimization Algorithm
+  title: Multi-parameter Calibration Method and Application of Constitutive Model Based on Improved Dung
+    Beetle Optimization Algorithm
   venue: Journal of Disaster Prevention and Mitigation Engineering, 45(5), 1014–1023. (In Chinese)
   type: Journal article
   topic: Algorithms
@@ -86,8 +87,8 @@
   authors: P. Lu, Y. Yu*, S. Liu, Tianlong Wang, Z. Xu
 - id: paper-velocity
   year: 2024
-  title: Prediction and explanation of debris flow velocity based on multi-strategy fusion Stacking ensemble learning
-    model
+  title: Prediction and explanation of debris flow velocity based on multi-strategy fusion Stacking ensemble
+    learning model
   venue: Journal of Hydrology, 638, 131347.
   type: Journal article
   topic: Debris flows
@@ -161,7 +162,8 @@
   authors: X. Xu, X. Lei, Tianlong Wang, G. Kong*, C. Li
 - id: paper-10
   year: 2021
-  title: 'Determining the location of River Dam Group based on set cover Model: A case study of Zambezi River Basin'
+  title: 'Determining the location of River Dam Group based on set cover Model: A case study of Zambezi
+    River Basin'
   venue: Scientific Research and Reviews, 14, 122.
   type: Journal article
   topic: Algorithms
@@ -169,6 +171,7 @@
   - label: DOI
     url: https://doi.org/10.28933/srr-2021-03-1005
   authors: Tianlong Wang, Xiaorui Tao, Dong-kun Wu, Haotian Feng
+  cv_role: First author
 - id: paper-11
   year: 2021
   title: Carbon emission forecast of China Transport Industry Based on Grey - Markov
@@ -179,6 +182,7 @@
   - label: DOI
     url: https://doi.org/10.1109/ICCBD53833.2021.00192
   authors: Tianlong Wang, J. Wang, X. Shao
+  cv_role: First author
 - id: paper-12
   year: 2020
   title: Research on Prediction and Optimization of Slope Deformation in Mining Area
@@ -189,6 +193,7 @@
   - label: DOI
     url: https://doi.org/10.23977/erej.2020.040110
   authors: Tianlong Wang, H. Zhang, X. Tao, W. Chu
+  cv_role: First author
 - id: paper-13
   year: 2020
   title: Optimization of Task Pricing Based on Multiple Regression Analysis and Game Theory
@@ -199,6 +204,7 @@
   - label: DOI
     url: https://doi.org/10.28933/esciences-2020-01-1805
   authors: Tianlong Wang, Hongyan Bao, Hairui Zhang
+  cv_role: First author
 - id: paper-14
   year: 2020
   title: Predicting Traffic Congestion Time Based on Kalman Filter Algorithm
@@ -209,3 +215,4 @@
   - label: DOI
     url: https://doi.org/10.28933/arr-2020-06-2205
   authors: Tianlong Wang, Xiaorui Tao, Jiamei Zhang, Yulei Li
+  cv_role: First author
