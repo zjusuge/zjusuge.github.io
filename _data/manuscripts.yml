@@ -1,33 +1,25 @@
 - id: manuscript-hydropiml
   contribution: Physics-guided residual stacking for short-lead runoff and water-stage prediction.
-  title: Physics-guided residual stacking for short-lead runoff and stage forecasting in the Fengshuwan catchment,
-    China
+  title: Physics-guided residual stacking for short-lead runoff and stage forecasting in the Fengshuwan
+    catchment, China
   authors: Tianlong Wang, Jian Chu, Hao Yang, Hongyue Sun*
   venue: 'Journal of Hydrology: Regional Studies'
   status: Under review following revision
   status_as_of: '2026-09-22'
   code: https://github.com/zjusuge/hydropiml-rs-fengshuwan-case
-- id: manuscript-bwsd
-  contribution: A water-balance indicator of antecedent catchment storage for warning-support research.
-  title: 'Basin Water Storage Degree for Risk-Informed Debris-Flow Warning Support: A Forward-Looking Proof
-    of Concept in a Small Mountain Catchment'
-  authors: Tianlong Wang, Jian Chu, Hao Yang, Hongyue Sun*
-  venue: International Journal of Disaster Risk Reduction
-  status: Under review following revision
-  status_as_of: '2026-09-22'
-  code: https://github.com/zjusuge/bwsd-fengshuwan-case
 - id: manuscript-readiness
-  contribution: Forecasting warning-relevant hydrological states when confirmed debris-flow records are sparse.
-  title: Hydrological readiness forecasting for debris flow early warning in a mountain catchment with sparse
-    event records
+  contribution: Forecasting warning-relevant hydrological states when confirmed debris-flow records are
+    sparse.
+  title: Hydrological readiness forecasting for debris flow early warning in a mountain catchment with
+    sparse event records
   authors: Tianlong Wang, Jian Chu, Jingkun Su, Runting Fan, Hao Yang, Hongyue Sun*
   venue: Bulletin of Engineering Geology and the Environment
   status: Under review
   status_as_of: '2026-09-22'
   code: https://github.com/zjusuge/hydrological-readiness-forecasting
 - id: manuscript-rsrl
-  contribution: Robust motion-state estimation and hydrology-informed residual learning with sequential prediction
-    intervals.
+  contribution: Robust motion-state estimation and hydrology-informed residual learning with sequential
+    prediction intervals.
   title: Robust state estimation and hydrology-informed residual learning for landslide velocity forecasting
     with prequential prediction intervals
   authors: Tianlong Wang, Jian Chu, Hao Yang, Hongyue Sun*
@@ -36,26 +28,27 @@
   status_as_of: '2026-09-22'
   code: https://github.com/zjusuge/RSRL-HU
 - id: manuscript-tabpfn
-  contribution: Combining sediment-source information and a pretrained tabular model for small-sample volume
-    prediction.
-  title: Sediment-source information improves small-sample prediction of maximum recorded debris-flow volume
-    with a pretrained tabular model
+  contribution: Combining sediment-source information and a pretrained tabular model for small-sample
+    volume prediction.
+  title: Sediment-source information improves small-sample prediction of maximum recorded debris-flow
+    volume with a pretrained tabular model
   authors: Tianlong Wang, Jian Chu, Yanhui Li, Hao Yang, Hongyue Sun*
   venue: Stochastic Environmental Research and Risk Assessment
   status: Under review following revision
   status_as_of: '2026-09-22'
   code: https://github.com/zjusuge/TabPFNv2.5-DebrisFlow
 - id: manuscript-cpec
-  title: 'An explainable and metaheuristic-optimized machine learning framework for spatial debris flow risk
-    prediction: Application to the northern China-Pakistan Economic Corridor'
+  title: 'An explainable and metaheuristic-optimized machine learning framework for spatial debris flow
+    risk prediction: Application to the northern China-Pakistan Economic Corridor'
   authors: Hao Yang, Tianlong Wang*, Haijun Qiu, Nikita Igorevich Fomin, Shuoting Xiao, Pengyue Zhao
   venue: Stochastic Environmental Research and Risk Assessment
   status: Under review following second revision
   status_as_of: '2026-09-22'
-  contribution: Explainable, metaheuristic-optimized modelling of spatial debris-flow susceptibility and vulnerability.
+  contribution: Explainable, metaheuristic-optimized modelling of spatial debris-flow susceptibility and
+    vulnerability.
 - id: manuscript-dynastack
-  title: 'DynaStack: An explainable and robust ensemble framework for trend-based stock price prediction and
-    strategy optimization'
+  title: 'DynaStack: An explainable and robust ensemble framework for trend-based stock price prediction
+    and strategy optimization'
   authors: Yanhui Li, Tianlong Wang*, Xiaorui Tao
   venue: Journal of Forecasting
   status: Under review following second revision

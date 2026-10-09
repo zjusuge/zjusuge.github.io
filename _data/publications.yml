@@ -1,3 +1,18 @@
+- id: paper-bwsd
+  year: 2026
+  title: 'Basin Water Storage Degree for Risk-Informed Debris-Flow Warning Support: A Forward-Looking
+    Proof of Concept in a Small Mountain Catchment'
+  authors: Tianlong Wang, Jian Chu, Hao Yang, Hongyue Sun*
+  venue: International Journal of Disaster Risk Reduction. Accepted 9 October 2026; in production.
+  type: Journal article
+  topic: Debris flows
+  status: Accepted
+  accepted_date: '2026-10-09'
+  manuscript_number: IJDRR-D-26-01829R1
+  cv_role: First author
+  links:
+  - label: Code
+    url: https://github.com/zjusuge/bwsd-fengshuwan-case
 - id: paper-dome
   year: 2026
   title: 'DOME: A Dynamic Optimization Meta-Ensemble Framework for Debris-Flow Susceptibility Assessment

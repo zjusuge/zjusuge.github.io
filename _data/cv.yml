@@ -1,4 +1,5 @@
 selected_publications:
+- paper-bwsd
 - paper-dome
 - paper-source-volume
 - paper-4
@@ -34,7 +35,6 @@ selected_reviewing:
 - International Journal of Interactive Multimedia and Artificial Intelligence
 selected_manuscripts:
 - manuscript-hydropiml
-- manuscript-bwsd
 - manuscript-readiness
 - manuscript-rsrl
 - manuscript-tabpfn
