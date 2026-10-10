@@ -415,7 +415,7 @@ redirect_from:
 
     <section class="container methods-strip" aria-label="Research strengths">{% for strength in site.data.home.strengths %}<div><h2>{{ strength.title | escape }}</h2><p>{{ strength.text | escape }}</p></div>{% endfor %}</section>
     <!-- Research: content is maintained in _data/home.yml. -->
-{% assign accepted_count = site.data.publications | where: 'status', 'Accepted' | size %}<section class="container research-snapshot" aria-label="Research record"><a href="#publications"><strong>{{ site.data.publications | size | minus: accepted_count }} + {{ accepted_count }}</strong><span>Published + accepted papers</span></a><a href="#current-research"><strong>{{ site.data.manuscripts | size }}</strong><span>Manuscripts under review</span></a><a href="#research-software"><strong>{{ site.data.software | size }}</strong><span>Open-source software</span></a><a href="#patents"><strong>{{ site.data.patents | size }}</strong><span>Patent records</span></a></section>
+<section class="container research-snapshot" aria-label="Research record"><a href="#publications"><strong>{{ site.data.publications | size }}</strong><span>Published &amp; accepted papers</span></a><a href="#current-research"><strong>{{ site.data.manuscripts | size }}</strong><span>Manuscripts under review</span></a><a href="#research-software"><strong>{{ site.data.software | size }}</strong><span>Open-source software</span></a><a href="#patents"><strong>{{ site.data.patents | size }}</strong><span>Patent records</span></a></section>
 
     <section
       class="research-band"
