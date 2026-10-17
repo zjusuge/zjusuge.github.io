@@ -1,51 +1,37 @@
 hero:
-  eyebrow: Geohazards · Hydrology · Physics-informed & explainable AI
-  headline: Understanding processes.
-  subheadline: Advancing geohazard prediction.
+  eyebrow: Geohazards · Hydrology · Physics-informed AI
+  headline: Catchment processes.
+  subheadline: Geohazard prediction.
   intro_before: I develop
   intro_focus: physics-informed and explainable prediction methods
-  intro_after: ' for hydrological processes and geohazards, especially debris flows and landslides. My
-    research connects catchment storage and hydrological memory with short-lead forecasting, monitoring
-    and mitigation.'
+  intro_after: ' for debris flows, landslides and hydrology, connecting field observations,
+    catchment storage and hydrological memory with short-lead forecasting.'
 research:
-  title: Forecasting at the intersection of physics and AI.
-  intro: 'Prediction is the thread running through my work: from hydrological and groundwater response
-    to debris-flow dynamics, landslide motion and hazard assessment.'
+  title: From observations to prediction.
+  intro: 'Small catchments and sparse observations connect three strands of my research.'
   topics:
   - letter: '01'
     color: blue
     category: Observe & understand
-    title: What makes a catchment ready to respond?
-    description: I use catchment and slope monitoring to study hydrological memory, rainfall–groundwater
-      coupling and storage-state indicators that inform geohazard forecasting.
-    methods:
-    - Field monitoring
-    - Hydrological memory
-    - Water storage
+    title: Catchment states & memory
+    description: Field monitoring and water-balance analysis connect rainfall, groundwater response
+      and catchment storage to hydrological-state assessment.
     link: '#current-research'
     link_label: Current research
   - letter: '02'
     color: teal
     category: Forecast & explain
-    title: How can physics improve predictions?
-    description: I develop PIML, XAI, ensemble learning and optimization methods for spatial hazard assessment
-      and temporal forecasts of flow, water levels and slope movement.
-    methods:
-    - PIML & XAI
-    - Algorithm development
-    - Spatiotemporal prediction
+    title: Physics-informed & explainable learning
+    description: Physics-informed learning, ensembles and optimization support sparse-data prediction,
+      with SHAP interpretation, prediction intervals and temporal or spatial evaluation.
     link: '#selected-work'
     link_label: Selected work
   - letter: '03'
     color: clay
     category: Assess & mitigate
-    title: How can predictions inform intervention?
+    title: Hydrology & hazard mitigation
     description: Collaborative work on siphon drainage, slope stabilization and geotechnical modelling
       connects hydrological understanding with practical hazard mitigation.
-    methods:
-    - Siphon drainage
-    - Slope stabilization
-    - Numerical modelling
     link: '#paper-anchor-siphon'
     link_label: Mitigation research
 selected:
@@ -57,7 +43,6 @@ selected:
     catchment storage for warning support, evaluated with 908 daily observations in a small mountain catchment.
   venue: International Journal of Disaster Risk Reduction · 146, 106496 · 2026
   detail: Apparent storage + archived data + reproducible code
-  show_resource_links: true
 - paper_id: paper-source-volume
   number: '02'
   category: Physics-informed learning
@@ -112,10 +97,3 @@ ongoing:
   boundary: ''
   link: https://github.com/zjusuge/TabPFNv2.5-DebrisFlow
   link_label: Volume benchmark code
-strengths:
-- title: Prediction methods
-  text: Ensembles, optimization and sparse-data forecasting.
-- title: Physics & hydrology
-  text: Physical constraints, hydrological memory and catchment storage.
-- title: Interpretation & uncertainty
-  text: SHAP interpretation, prediction intervals and temporal/spatial evaluation.

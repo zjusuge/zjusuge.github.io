@@ -48,7 +48,7 @@ redirect_from:
     src="{{ '/assets/js/academic.js' | relative_url }}?v=2"
     defer
   ></script>
-  <link rel="stylesheet" href="{{ '/assets/css/editorial.css' | relative_url }}?v=20261017">
+  <link rel="stylesheet" href="{{ '/assets/css/editorial.css' | relative_url }}?v=20261017-layout">
   <link rel="icon" href="{{ '/assets/favicon.svg' | relative_url }}" type="image/svg+xml">
   <script type="application/ld+json">
   {"@context":"https://schema.org","@type":"Person","name":{{ site.data.profile.name | jsonify }},"url":"https://zjusuge.github.io/","jobTitle":"PhD Student","affiliation":[{"@type":"CollegeOrUniversity","name":"Zhejiang University"},{"@type":"CollegeOrUniversity","name":"Nanyang Technological University"}],"sameAs":["https://orcid.org/0000-0002-0598-5481","https://github.com/zjusuge","https://scholar.google.com/citations?user=JNiHto0AAAAJ","https://www.linkedin.com/in/tianlong-wang/"],"knowsAbout":["Debris flows","Catchment hydrology","Physics-informed machine learning","Landslide forecasting"]}
@@ -82,8 +82,8 @@ redirect_from:
 
       <nav class="site-nav" id="site-nav" aria-label="Main navigation">
         <a href="#research">Research</a>
-        <a href="#publications">Publications</a>
         <a href="#research-software">Software</a>
+        <a href="#publications">Publications</a>
         <a href="#education">Education</a>
         <a href="#research-funding">Funding</a>
         <a href="{{ '/cv/' | relative_url }}">CV ↗</a>
@@ -151,6 +151,13 @@ redirect_from:
           >
             Academic CV
           </a>
+        </div>
+
+        <div class="research-snapshot" role="group" aria-label="Research record">
+          <a href="#publications"><strong>{{ site.data.publications | size }}</strong><span>Published papers</span></a>
+          <a href="#current-research"><strong>{{ site.data.manuscripts | size }}</strong><span>Manuscripts under review</span></a>
+          <a href="#research-software"><strong>{{ site.data.software | size }}</strong><span>Open-source software</span></a>
+          <a href="#patents"><strong>{{ site.data.patents | size }}</strong><span>Patent records</span></a>
         </div>
 
         <div class="profile-links" aria-label="Academic and professional profiles">{% for profile in site.data.profiles %}<a href="{{ profile.url | escape }}">{{ profile.label | escape }}</a>{% endfor %}</div>
@@ -413,9 +420,7 @@ redirect_from:
       </figure>
     </section>
 
-    <section class="container methods-strip" aria-label="Research strengths">{% for strength in site.data.home.strengths %}<div><h2>{{ strength.title | escape }}</h2><p>{{ strength.text | escape }}</p></div>{% endfor %}</section>
     <!-- Research: content is maintained in _data/home.yml. -->
-<section class="container research-snapshot" aria-label="Research record"><a href="#publications"><strong>{{ site.data.publications | size }}</strong><span>Published papers</span></a><a href="#current-research"><strong>{{ site.data.manuscripts | size }}</strong><span>Manuscripts under review</span></a><a href="#research-software"><strong>{{ site.data.software | size }}</strong><span>Open-source software</span></a><a href="#patents"><strong>{{ site.data.patents | size }}</strong><span>Patent records</span></a></section>
 
     <section
       class="research-band"
@@ -452,10 +457,6 @@ redirect_from:
 
               <p>{{ topic.description | escape }}</p>
 
-              <p class="topic-method">
-                {{ topic.methods | join: " · " | escape }}
-              </p>
-
               <a class="text-link" href="{{ topic.link | escape }}">
                 {{ topic.link_label | escape }}
                 <span aria-hidden="true">↗</span>
@@ -476,12 +477,10 @@ redirect_from:
           <h3><a href="#{{ work.paper_id | escape }}">{{ work.title | escape }}</a></h3>
           <p>{{ work.summary | escape }}</p>
           <div class="selected-footer">
-            {% if work.show_resource_links %}
             {% assign selected_paper = site.data.publications | where: 'id', work.paper_id | first %}
             <div class="selected-resource-links" aria-label="Research resources">
               {% for link in selected_paper.links %}<a href="{{ link.url | escape }}">{% if link.label == 'DOI' %}Paper{% elsif link.label == 'Data' %}Dataset{% else %}{{ link.label | escape }}{% endif %} ↗</a>{% endfor %}
             </div>
-            {% endif %}
             <a href="#{{ work.paper_id | escape }}" aria-label="Publication details: {{ work.title | escape }}">↗</a>
           </div>
         </article>
@@ -500,6 +499,34 @@ redirect_from:
       </details>
     </section>
 
+    <!-- Software -->
+    <section
+      class="container section-layout"
+      id="research-software"
+      aria-labelledby="software-title"
+    >
+      <div class="section-heading">
+        <p class="eyebrow">01 / Code &amp; implementation</p>
+        <h2 id="software-title">Research software</h2>
+
+        <a class="text-link" href="https://github.com/zjusuge">
+          GitHub profile <span aria-hidden="true">↗</span>
+        </a>
+      </div>
+
+      <div class="section-content software-grid">
+        {% for project in site.data.software %}
+        <article class="software-card">
+          <p class="software-category">{{ project.category | escape }}</p>
+          <h3>{{ project.name | escape }}</h3>
+          <p>{{ project.description | escape }}</p>
+          <div class="software-tags">{% for tag in project.tags %}<span>{{ tag | escape }}</span>{% endfor %}</div>
+          <div class="software-links">{% for link in project.links %}<a href="{{ link.url | escape }}">{{ link.label | escape }} ↗</a>{% endfor %}</div>
+        </article>
+        {% endfor %}
+      </div>
+    </section>
+
     <!-- Publications: static HTML, readable without JavaScript. -->
     <section
       class="container section-layout"
@@ -507,7 +534,7 @@ redirect_from:
       aria-labelledby="publications-title"
     >
       <div class="section-heading">
-        <p class="eyebrow">01 / Research output</p>
+        <p class="eyebrow">02 / Research output</p>
         <h2 id="publications-title">Publications</h2>
         <p>Journal articles and conference papers.</p>
         <p class="small">
@@ -578,34 +605,6 @@ redirect_from:
         <p class="empty-state" id="publication-empty" hidden>
           No publications match your search. Try another keyword or year.
         </p>
-      </div>
-    </section>
-
-    <!-- Software -->
-    <section
-      class="container section-layout"
-      id="research-software"
-      aria-labelledby="software-title"
-    >
-      <div class="section-heading">
-        <p class="eyebrow">02 / Code &amp; implementation</p>
-        <h2 id="software-title">Research software</h2>
-        
-        <a class="text-link" href="https://github.com/zjusuge">
-          GitHub profile <span aria-hidden="true">↗</span>
-        </a>
-      </div>
-
-      <div class="section-content software-grid">
-        {% for project in site.data.software %}
-        <article class="software-card">
-          <p class="software-category">{{ project.category | escape }}</p>
-          <h3>{{ project.name | escape }}</h3>
-          <p>{{ project.description | escape }}</p>
-          <div class="software-tags">{% for tag in project.tags %}<span>{{ tag | escape }}</span>{% endfor %}</div>
-          <div class="software-links">{% for link in project.links %}<a href="{{ link.url | escape }}">{{ link.label | escape }} ↗</a>{% endfor %}</div>
-        </article>
-        {% endfor %}
       </div>
     </section>
 
