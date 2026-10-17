@@ -48,7 +48,7 @@ redirect_from:
     src="{{ '/assets/js/academic.js' | relative_url }}?v=2"
     defer
   ></script>
-  <link rel="stylesheet" href="{{ '/assets/css/editorial.css' | relative_url }}?v=20261004">
+  <link rel="stylesheet" href="{{ '/assets/css/editorial.css' | relative_url }}?v=20261017">
   <link rel="icon" href="{{ '/assets/favicon.svg' | relative_url }}" type="image/svg+xml">
   <script type="application/ld+json">
   {"@context":"https://schema.org","@type":"Person","name":{{ site.data.profile.name | jsonify }},"url":"https://zjusuge.github.io/","jobTitle":"PhD Student","affiliation":[{"@type":"CollegeOrUniversity","name":"Zhejiang University"},{"@type":"CollegeOrUniversity","name":"Nanyang Technological University"}],"sameAs":["https://orcid.org/0000-0002-0598-5481","https://github.com/zjusuge","https://scholar.google.com/citations?user=JNiHto0AAAAJ","https://www.linkedin.com/in/tianlong-wang/"],"knowsAbout":["Debris flows","Catchment hydrology","Physics-informed machine learning","Landslide forecasting"]}
@@ -475,7 +475,15 @@ redirect_from:
           <p class="selected-venue">{{ work.venue | escape }}</p>
           <h3><a href="#{{ work.paper_id | escape }}">{{ work.title | escape }}</a></h3>
           <p>{{ work.summary | escape }}</p>
-          <div class="selected-footer"><a href="#{{ work.paper_id | escape }}" aria-label="Publication details: {{ work.title | escape }}">↗</a></div>
+          <div class="selected-footer">
+            {% if work.show_resource_links %}
+            {% assign selected_paper = site.data.publications | where: 'id', work.paper_id | first %}
+            <div class="selected-resource-links" aria-label="Research resources">
+              {% for link in selected_paper.links %}<a href="{{ link.url | escape }}">{% if link.label == 'DOI' %}Paper{% elsif link.label == 'Data' %}Dataset{% else %}{{ link.label | escape }}{% endif %} ↗</a>{% endfor %}
+            </div>
+            {% endif %}
+            <a href="#{{ work.paper_id | escape }}" aria-label="Publication details: {{ work.title | escape }}">↗</a>
+          </div>
         </article>
       {% endfor %}
       </div>

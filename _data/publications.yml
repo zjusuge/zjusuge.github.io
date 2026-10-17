@@ -1,16 +1,20 @@
 - id: paper-bwsd
   year: 2026
-  title: 'Basin Water Storage Degree for Risk-Informed Debris-Flow Warning Support: A Forward-Looking
-    Proof of Concept in a Small Mountain Catchment'
+  title: 'Basin water storage degree for risk-informed debris-flow warning support: A forward-looking
+    proof of concept in a small mountain catchment'
   authors: Tianlong Wang, Jian Chu, Hao Yang, Hongyue Sun*
-  venue: International Journal of Disaster Risk Reduction. Accepted 9 October 2026; in production.
+  venue: International Journal of Disaster Risk Reduction, 146, 106496.
   type: Journal article
   topic: Debris flows
-  status: Accepted
+  status: Published
   accepted_date: '2026-10-09'
   manuscript_number: IJDRR-D-26-01829R1
   cv_role: First author
   links:
+  - label: DOI
+    url: https://doi.org/10.1016/j.ijdrr.2026.106496
+  - label: Data
+    url: https://doi.org/10.5281/zenodo.20068173
   - label: Code
     url: https://github.com/zjusuge/bwsd-fengshuwan-case
 - id: paper-dome

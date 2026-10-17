@@ -53,10 +53,11 @@ selected:
   number: '01'
   category: Catchment hydrology & warning support
   title: Understanding catchment storage for warning support.
-  summary: Basin Water Storage Degree (BWSD) provides a water-balance indicator of antecedent catchment
-    storage, tested as a forward-looking proof of concept in a small mountain catchment.
-  venue: International Journal of Disaster Risk Reduction · Accepted October 2026
-  detail: Hydrological state indicator + open research code
+  summary: Basin Water Storage Degree (BWSD) provides a sequential water-balance indicator of apparent
+    catchment storage for warning support, evaluated with 908 daily observations in a small mountain catchment.
+  venue: International Journal of Disaster Risk Reduction · 146, 106496 · 2026
+  detail: Apparent storage + archived data + reproducible code
+  show_resource_links: true
 - paper_id: paper-source-volume
   number: '02'
   category: Physics-informed learning
@@ -93,8 +94,8 @@ selected:
   figure_alt: DOME workflow showing learner selection, ensemble construction, calibration and evaluation.
 ongoing:
 - title: Hydrological readiness & catchment storage
-  description: Developing Basin Water Storage Degree (BWSD) and readiness forecasts from rainfall, drainage
-    and monitored catchment conditions.
+  description: Building on the published Basin Water Storage Degree (BWSD) indicator to connect catchment
+    storage assessment with readiness forecasts from rainfall, drainage and monitored conditions.
   boundary: Warning-support research; event-detection skill requires validation on debris-flow events
     and independent catchments.
   link: https://github.com/zjusuge/bwsd-fengshuwan-case

@@ -51,15 +51,21 @@
   cv_description: Three-day probabilistic forecasts of warning-relevant hydrological states, evaluated chronologically.
 - name: BWSD
   category: Catchment hydrology
-  description: Daily Basin Water Storage Degree calculation and hydrological-state classification from the Fengshuwan
-    catchment water balance.
+  description: Reproducible Python analysis of apparent catchment storage, with sequential reference updating,
+    short-lead persistence, sensitivity analysis and uncertainty propagation. The accompanying dataset contains
+    908 daily observations from Fengshuwan, covering October 2023 to April 2026.
   tags:
   - Water storage
   - Case study
   links:
   - label: Repository
     url: https://github.com/zjusuge/bwsd-fengshuwan-case
-  cv_description: Water-balance-based catchment storage indicator and daily hydrological-state classification.
+  - label: Paper
+    url: https://doi.org/10.1016/j.ijdrr.2026.106496
+  - label: Dataset
+    url: https://doi.org/10.5281/zenodo.20068173
+  cv_description: Reproducible apparent-storage assessment with sequential reference updating, sensitivity
+    analysis and uncertainty propagation.
 - name: HydroPIML-RS
   category: Hydrological prediction
   description: Physics-informed residual stacking for short-lead runoff and water-stage forecasting, with prediction
