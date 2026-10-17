@@ -681,7 +681,14 @@ redirect_from:
 
       <div class="section-content">
         <div class="academic-service"><h3>Peer review &amp; professional service</h3><details><summary>Journal reviewing · {{ site.data.service.reviewing.size }} journals</summary><p>{{ site.data.service.reviewing | join: '; ' | escape }}.</p></details><a class="text-link" href="{{ '/cv/' | relative_url }}">Full service record ↗</a></div>
-        <div class="recognition-highlights">{% for award in site.data.honors %}{% if award.featured %}<div><strong>{{ award.title | escape }}</strong><p>{{ award.context | escape }} · {{ award.year | escape }}</p></div>{% endif %}{% endfor %}</div><details class="archive" id="honors">
+        <div class="recognition-highlights">
+          {% assign featured_awards = site.data.honors | where: 'featured', true | sort: 'featured_order' %}
+          {% for award in featured_awards %}
+          {% assign award_years = site.data.honors | where: 'title', award.title | where: 'context', award.context | where: 'category', award.category | map: 'year' | uniq | sort | reverse %}
+          <div><strong>{{ award.title | escape }}</strong><p>{{ award.context | escape }} · {{ award_years | join: ', ' | escape }}</p></div>
+          {% endfor %}
+        </div>
+        <details class="archive" id="honors">
           <summary><span>Honors &amp; scholarships · {{ site.data.honors | where: 'category', 'honor' | size }} records</span><span class="archive-symbol" aria-hidden="true"></span></summary>
           <div class="archive-body"><ul class="record-list">
             {% for award in site.data.honors %}{% if award.category == 'honor' %}

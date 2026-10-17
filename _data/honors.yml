@@ -3,6 +3,7 @@
   context: China
   category: honor
   featured: true
+  featured_order: 3
 - title: Chinese Government Scholarship
   year: '2024'
   context: China Scholarship Council
@@ -17,6 +18,7 @@
     nationwide
   category: honor
   featured: true
+  featured_order: 1
 - title: Outstanding Graduate
   year: '2022'
   context: university level
@@ -47,6 +49,7 @@
     Regional
   category: competition
   featured: true
+  featured_order: 4
 - title: Silver Award
   year: '2024'
   context: Zhejiang International College Students' Innovation Competition (Internet+)
@@ -80,6 +83,7 @@
   context: 3rd National College Student Structural Design Information Technology Competition
   category: competition
   featured: true
+  featured_order: 2
 - title: Third Prize
   year: '2021'
   context: Hubei, 13th Challenge Cup National Undergraduate Curricular Academic Science
