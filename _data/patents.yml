@@ -1,3 +1,12 @@
+- number: CN117854239B
+  year: '2026'
+  status: Granted
+  title: Monitoring and Early Warning Method and System for Rainfall-induced Landslides
+  authors: X. Wang, H. Sun, Tianlong Wang, R. Tang, R. Luo
+  country: China
+  patent_number: ZL202410081965.1
+  grant_date: '2026-10-20'
+  url: https://patents.google.com/patent/CN117854239A/en
 - number: JP2025113090A
   year: '2025'
   status: Published application
@@ -12,13 +21,6 @@
   authors: X. Wang, H. Sun, S. Shao, R. Luo, Tianlong Wang
   country: China
   url: https://patents.google.com/patent/CN118262481A/en
-- number: CN117854239A
-  year: '2024'
-  status: Published application
-  title: Monitoring and Early Warning Method and System for Rainfall-induced Landslides
-  authors: X. Wang, H. Sun, Tianlong Wang, R. Tang, R. Luo
-  country: China
-  url: https://patents.google.com/patent/CN117854239A/en
 - number: CN116757323A
   year: '2023'
   status: Published application

@@ -712,7 +712,7 @@ redirect_from:
             <span class="archive-symbol" aria-hidden="true"></span>
           </summary>
           <div class="archive-body">
-            <ol class="patent-list">{% for patent in site.data.patents %}<li><h3>{{ patent.title | escape }}</h3><p>{{ patent.authors | escape | replace: 'Tianlong Wang', '<strong>Tianlong Wang</strong>' }}</p><p class="patent-meta">{{ patent.country | escape }} · {{ patent.number | escape }} · {{ patent.year | escape }} · {{ patent.status | escape }} · <a href="{{ patent.url | escape }}">Patent record ↗</a></p></li>{% endfor %}</ol>
+            <ol class="patent-list">{% for patent in site.data.patents %}<li><h3>{{ patent.title | escape }}</h3><p>{{ patent.authors | escape | replace: 'Tianlong Wang', '<strong>Tianlong Wang</strong>' }}</p><p class="patent-meta">{{ patent.country | escape }} · {{ patent.number | escape }} · {{ patent.year | escape }} · {{ patent.status | escape }}{% if patent.patent_number %} · Patent No. {{ patent.patent_number | escape }}{% endif %}{% if patent.grant_date %} · Grant date: {{ patent.grant_date | date: '%-d %B %Y' }}{% endif %} · <a href="{{ patent.url | escape }}">Patent record ↗</a></p></li>{% endfor %}</ol>
           </div>
         </details>
 
