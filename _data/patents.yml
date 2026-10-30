@@ -5,8 +5,11 @@
   authors: X. Wang, H. Sun, Tianlong Wang, R. Tang, R. Luo
   country: China
   patent_number: ZL202410081965.1
+  patent_holder: Zhejiang University
+  certificate_number: '9348970'
+  link_label: Grant certificate
   grant_date: '2026-10-20'
-  url: https://patents.google.com/patent/CN117854239A/en
+  url: https://zjusuge.github.io/assets/files/patents/CN117854239B-grant-certificate.pdf
 - number: JP2025113090A
   year: '2025'
   status: Published application
